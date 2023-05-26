@@ -3,7 +3,14 @@
 .formatVersion = 3;
 DisplayStrings = (
 Hello,
-K
+K,
+H
+);
+axes = (
+{
+name = Height;
+tag = HGHT;
+}
 );
 customParameters = (
 {
@@ -1947,6 +1954,9 @@ tag = ss01;
 );
 fontMaster = (
 {
+axesValues = (
+545
+);
 customParameters = (
 {
 name = typoAscender;
@@ -2089,8 +2099,8 @@ over = 10;
 pos = 800;
 },
 {
-over = 10;
-pos = 590;
+over = 15;
+pos = 545;
 },
 {
 over = 10;
@@ -2115,6 +2125,9 @@ GSOffsetVertical = 10;
 };
 },
 {
+axesValues = (
+600
+);
 customParameters = (
 {
 name = typoAscender;
@@ -2257,7 +2270,7 @@ over = 10;
 pos = 800;
 },
 {
-over = 10;
+over = 15;
 pos = 600;
 },
 {
@@ -2283,6 +2296,9 @@ GSOffsetVertical = 10;
 };
 },
 {
+axesValues = (
+720
+);
 customParameters = (
 {
 name = typoAscender;
@@ -2425,8 +2441,8 @@ over = 10;
 pos = 800;
 },
 {
-over = 10;
-pos = 535;
+over = 15;
+pos = 720;
 },
 {
 over = 10;
@@ -44305,6 +44321,205 @@ nodes = (
 width = 600;
 }
 );
+}
+);
+instances = (
+{
+axesValues = (
+545
+);
+instanceInterpolations = {
+"CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9" = 1;
+};
+name = "545";
+},
+{
+axesValues = (
+555
+);
+instanceInterpolations = {
+"CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9" = 0.81818;
+m002 = 0.18182;
+};
+name = "555";
+},
+{
+axesValues = (
+565
+);
+instanceInterpolations = {
+"CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9" = 0.63636;
+m002 = 0.36364;
+};
+name = "565";
+},
+{
+axesValues = (
+575
+);
+instanceInterpolations = {
+"CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9" = 0.45455;
+m002 = 0.54545;
+};
+name = "575";
+},
+{
+axesValues = (
+588
+);
+instanceInterpolations = {
+"CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9" = 0.21818;
+m002 = 0.78182;
+};
+name = "588";
+},
+{
+axesValues = (
+594
+);
+instanceInterpolations = {
+"CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9" = 0.10909;
+m002 = 0.89091;
+};
+name = "594";
+},
+{
+axesValues = (
+600
+);
+instanceInterpolations = {
+m002 = 1;
+};
+name = "600";
+},
+{
+axesValues = (
+607
+);
+instanceInterpolations = {
+m002 = 0.94167;
+m003 = 0.05833;
+};
+name = "607";
+},
+{
+axesValues = (
+612
+);
+instanceInterpolations = {
+m002 = 0.9;
+m003 = 0.1;
+};
+name = "612";
+},
+{
+axesValues = (
+620
+);
+instanceInterpolations = {
+m002 = 0.83333;
+m003 = 0.16667;
+};
+name = "620";
+},
+{
+axesValues = (
+630
+);
+instanceInterpolations = {
+m002 = 0.75;
+m003 = 0.25;
+};
+name = "630";
+},
+{
+axesValues = (
+640
+);
+instanceInterpolations = {
+m002 = 0.66667;
+m003 = 0.33333;
+};
+name = "640";
+},
+{
+axesValues = (
+650
+);
+instanceInterpolations = {
+m002 = 0.58333;
+m003 = 0.41667;
+};
+name = "650";
+},
+{
+axesValues = (
+660
+);
+instanceInterpolations = {
+m002 = 0.5;
+m003 = 0.5;
+};
+name = "660";
+},
+{
+axesValues = (
+670
+);
+instanceInterpolations = {
+m002 = 0.41667;
+m003 = 0.58333;
+};
+name = "670";
+},
+{
+axesValues = (
+680
+);
+instanceInterpolations = {
+m002 = 0.33333;
+m003 = 0.66667;
+};
+name = "680";
+},
+{
+axesValues = (
+690
+);
+instanceInterpolations = {
+m002 = 0.25;
+m003 = 0.75;
+};
+name = "690";
+},
+{
+axesValues = (
+700
+);
+instanceInterpolations = {
+m002 = 0.16667;
+m003 = 0.83333;
+};
+name = "700";
+},
+{
+axesValues = (
+710
+);
+instanceInterpolations = {
+m002 = 0.08333;
+m003 = 0.91667;
+};
+name = "710";
+},
+{
+axesValues = (
+720
+);
+instanceInterpolations = {
+m003 = 1;
+};
+name = "720";
 }
 );
 metrics = (
