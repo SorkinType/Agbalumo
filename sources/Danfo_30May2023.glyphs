@@ -2,14 +2,11 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-CJtCG,
-"Graphitizes Nomographers Comanda Miscreation Multilinguists Aanvankelijk Schokken Abeilles Meteoriti Galoot Messianic Synu Iberia Marmoreus Occultus Ongevaarlijk Skellir Meerderheid Jotakin Gewann Arty Ministry Nohaviciach Adflictas Noires Cargaison Scum Obtinguessin Olfactible Stieg Galoppo Crossandras Oplysning Incardinin Nostavat Minste Surnaturel Magnetometer Conglutinated Imprecisely Glazunov Activada Hepatisation Mirthfulness Admissions Jelent Instinctual Creat Glouting Hoodooed",
-OGJgOQ,
 i,
 "Hoofer Athyglinni Infamonises Golfen Hydroextractors Overveiled Quove Anzahlung Exchanges Crampi Stilling Sueldos Ghillie Optagelse Mafia Julie Acarodomatium Marcia Galleggiante Caporal Mccarthy Hova Inkiest Convoy Joni Generatrix Chemie Gullborgina Nervy Cuya Cynnar Escolars Indicium Can Akvavits Straen Exsufflates Chytej Scaud Exhibix General Swamping Quinn Stekker Antherozoids Skribent Nathan Crevassing Govs Axmen",
 e,
-CE,
-C
+C,
+NK
 );
 customParameters = (
 {
@@ -3743,10 +3740,12 @@ unicode = 74;
 },
 {
 glyphname = K;
-lastChange = "2023-05-26 18:51:32 +0000";
+lastChange = "2023-05-30 20:52:45 +0000";
 layers = (
 {
-layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "3B78CFBF-B472-4813-B3A8-8F89EA199B25";
+name = "May 30, 23, 16:51";
 shapes = (
 {
 closed = 1;
@@ -3834,90 +3833,89 @@ nodes = (
 width = 600;
 },
 {
-associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
-layerId = "E44DB0C8-DBF0-49A1-B7D4-2FA7F94E05E7";
-name = "May 26, 23, 14:48";
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+name = Regular;
 shapes = (
 {
 closed = 1;
 nodes = (
-(178,-66,o),
-(239,-26,o),
-(249,21,c),
-(249,28,l),
-(238,59,o),
-(232,91,o),
-(232,123,cs),
-(232,245,o),
-(294,392,o),
-(294,510,cs),
-(294,616,o),
-(247,656,o),
-(188,656,cs),
-(108,656,o),
-(-5,567,o),
-(-5,483,c),
-(15,467,l),
-(30,500,o),
-(56,518,o),
-(79,518,cs),
-(101,518,o),
-(120,501,o),
-(120,469,cs),
-(120,385,o),
-(28,186,o),
-(28,63,cs),
-(28,-31,o),
-(74,-66,o),
-(123,-66,cs)
+(178,0,o),
+(239,40,o),
+(249,87,c),
+(249,94,l),
+(238,125,o),
+(232,157,o),
+(232,189,cs),
+(232,311,o),
+(294,458,o),
+(294,576,cs),
+(294,682,o),
+(247,722,o),
+(188,722,cs),
+(108,722,o),
+(-5,633,o),
+(-5,549,c),
+(15,533,l),
+(30,566,o),
+(56,584,o),
+(79,584,cs),
+(101,584,o),
+(120,567,o),
+(120,535,cs),
+(120,451,o),
+(28,252,o),
+(28,129,cs),
+(28,35,o),
+(74,0,o),
+(123,0,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(572,-54,o),
-(614,35,o),
-(622,138,c),
-(613,142,l),
-(605,125,o),
-(594,116,o),
-(580,116,cs),
-(549,116,o),
-(500,150,o),
-(431,260,cs),
-(379,341,o),
-(357,398,o),
-(270,398,cs),
-(205,398,o),
-(200,355,o),
-(212,355,cs),
-(235,355,o),
-(232,343,o),
-(303,181,cs),
-(354,63,o),
-(406,-54,o),
-(484,-54,cs)
+(572,-6,o),
+(614,83,o),
+(622,186,c),
+(613,190,l),
+(605,173,o),
+(594,164,o),
+(580,164,cs),
+(549,164,o),
+(500,216,o),
+(431,326,cs),
+(379,407,o),
+(357,464,o),
+(270,464,cs),
+(205,464,o),
+(200,421,o),
+(212,421,cs),
+(235,421,o),
+(232,409,o),
+(303,247,cs),
+(354,129,o),
+(406,-6,o),
+(484,-6,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(364,412,o),
-(464,450,o),
-(532,450,cs),
-(543,450,o),
-(553,449,o),
-(564,448,c),
-(587,489,o),
-(596,529,o),
-(596,561,cs),
-(596,616,o),
-(576,652,o),
-(526,652,cs),
-(464,652,o),
-(334,564,o),
-(311,367,c),
-(334,349,l)
+(364,478,o),
+(464,516,o),
+(532,516,cs),
+(543,516,o),
+(553,515,o),
+(564,514,c),
+(587,555,o),
+(596,595,o),
+(596,627,cs),
+(596,682,o),
+(576,718,o),
+(526,718,cs),
+(464,718,o),
+(334,630,o),
+(311,433,c),
+(334,415,l)
 );
 }
 );
