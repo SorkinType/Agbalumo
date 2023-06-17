@@ -2,17 +2,60 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-BDMNPR,
-"CYLINDROIDS DIEGO RIATTACCA ENZIAN ENDEMICS MISBECOME GAMMON NEATLY DRAFTSWOMAN CANDY VYJDE SERIOCOMIC ANALSEX SOARING PRIVATENESS NIGGARDISED BRANDSTIFTUNG ANTEVORTUNT VICTORINES REFLOWING ERWACHT GUARDO WHITES BARTERS NECROPHILIC MENACE WAGERING KROT DABBED PATRICKS HILLSIDES DOLK TISSEMAND UDTALT SEGUITI CAVORTING BURTS LANGUOROUS MUGEIXI RELAPSED PELLETIFY BAFFLER DOO CHVILKU FACTORIZED JOSSA TEMPLOS KILTING GRUNYIN MALES",
-LMNT,
 f,
-"Das schnelle braune Fuchs springt uber den faulen Hund. Ein qualendes Zogern beschwert die edle Prinzessin. Viele Zwerge jagen quirlige Pranken und mixen kostliche Wurze. Frohliche Hahne krahen bei Tagesanbruch und verschonern den Himmel. Der wilde Tanz erweckt Gefuhle bei dem stummen Jungen. Das zarte Madchen lacht und geniet das frische Gluck.",
-"Verhandlung Senkt Heimatstadt Kirschbaum Herrscher Betont Funkspruch Erscheine Kotzt Abzuhalten Undankbar Aufmerksamkeit Staatsanwalt Tanklastwagen Achtern Tonnen Vorerst Romantischer Schlicht Pausenzeichen Speer Veilchen Starrst Kampfes Eintreffen Segel Fette Schrein Japanischer Staat Redaktion Definieren Schaumbad Kur Stangensellerie Krumm Dringende Erdbeben Misshandelt Kerker Verachtet Pater Wahl Raketen Umlegen Schuldige Knarrt Rampe Freundlicher Geschmacklos Fortschritte Seekrank Hubert Habe Brachtest Wegwerfen Stellungnahme Teuerste Bluffen Donnern",
-FHIJKLPRTY,
-ABDUVnNW,
-XZ,
 "Der schnelle braune Fuchs springt ueber den faulen Hund. Ein quaehlendes Zoegern beschwert die edle Prinzessin. Viele Zwerge jagen quirlige Pranken und mixen koestliche Wuerze. Froehliche Haehne kraehen bei Tagesanbruch und verschnern den Himmel. Der wilde Tanz erweckt Gefuehle bei dem stummen Jungen. Das zarte Maedchen lacht und geniesst das frische Glueck. Heute ist der 14. Juni 2023, es ist 12:30 Uhr und das Jahr schreitet voran.",
-" o012f34567Z"
+" o012f34567Z",
+"0.00 0.10 0.20 0.30 0.40 0.50 0.60 0.70 0.80 0.90
+1.01 1.01 1.21 1.31 1.41 1.51 1.61 1.71 1.81 1.91
+2.02 2.12 2.22 2.32 2.42 2.52 2.62 2.72 2.82 2.92
+3.03 3.13 3.23 3.33 3.43 3.53 3.63 3.73 3.83 3.93
+4.04 4.14 4.24 4.34 4.44 4.54 4.64 4.74 4.84 4.94
+5.05 5.15 5.25 5.35 5.45 5.55 5.65 5.75 5.85 5.95
+6.06 6.16 6.26 6.36 6.46 6.56 6.66 6.76 6.86 6.96
+7.07 7.17 7.27 7.37 7.47 7.57 7.67 7.77 7.87 7.97
+8.08 8.18 8.28 8.38 8.48 8.58 8.68 8.78 8.88 8.98
+9.09 9.19 9.29 9.39 9.49 9.59 9.69 9.79 9.89 9.99
+0.00 0.10 0.20 0.30 0.40 0.50 0.60 0.70 0.80 0.90
+
+ 
+
+Numbers Test: 60 points
+
+0,00 0,10 0,20 0,30 0,40 0,50 0,60 0,70 0,80 0,90
+1,01 1,01 1,21 1,31 1,41 1,51 1,61 1,71 1,81 1,91
+2,02 2,12 2,22 2,32 2,42 2,52 2,62 2,72 2,82 2,92
+3,03 3,13 3,23 3,33 3,43 3,53 3,63 3,73 3,83 3,93
+4,04 4,14 4,24 4,34 4,44 4,54 4,64 4,74 4,84 4,94
+5,05 5,15 5,25 5,35 5,45 5,55 5,65 5,75 5,85 5,95
+6,06 6,16 6,26 6,36 6,46 6,56 6,66 6,76 6,86 6,96
+7,07 7,17 7,27 7,37 7,47 7,57 7,67 7,77 7,87 7,97
+8,08 8,18 8,28 8,38 8,48 8,58 8,68 8,78 8,88 8,98
+9,09 9,19 9,29 9,39 9,49 9,59 9,69 9,79 9,89 9,99
+0,00 0,10 0,20 0,30 0,40 0,50 0,60 0,70 0,80 0,90
+
+ 
+
+Numbers Test: 60 points
+
+0:00 0:10 0:20 0:30 0:40 0:50 0:60 0:70 0:80 0:90
+1:01 1:01 1:21 1:31 1:41 1:51 1:61 1:71 1:81 1:91
+2:02 2:12 2:22 2:32 2:42 2:52 2:62 2:72 2:82 2:92
+3:03 3:13 3:23 3:33 3:43 3:53 3:63 3:73 3:83 3:93
+4:04 4:14 4:24 4:34 4:44 4:54 4:64 4:74 4:84 4:94
+5:05 5:15 5:25 5:35 5:45 5:55 5:65 5:75 5:85 5:95
+6:06 6:16 6:26 6:36 6:46 6:56 6:66 6:76 6:86 6:96
+7:07 7:17 7:27 7:37 7:47 7:57 7:67 7:77 7:87 7:97
+8:08 8:18 8:28 8:38 8:48 8:58 8:68 8:78 8:88 8:98
+9:09 9:19 9:29 9:39 9:49 9:59 9:69 9:79 9:89 9:99
+0:00 0:10 0:20 0:30 0:40 0:50 0:60 0:70 0:80 0:90",
+"Grumpy wizards make toxic brew for the evil Queen and Jack. One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armourlike back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. 01234567890 ",
+"6059",
+"Spritverbrauch Nedtur Ober Convalescing Angemacht Deflagrated Uncontrollable Emissile Cenes Centerings Unforming Rabelais Grenfell Reseating Gamma Spicier Ian Kanalerne Pausings Syytteeseen Lensimme Cyfryngau Patiens Countervailable Iure Korrupt Yins Bankmand Revivify Engrafts Dart MarzipaHn Plainstones Inauthentic Sedulous Gonzesses Nichols Eixisses Circularising Vkus Polemist Essentiel Unwieldily Klutzes Incendies Assetja Perceant Antecedences Furuncle Drains Surf Cotyledon Glasur Bestil Oerlikons Firestones Kouskouses Calendarizing Cyanide Gwobr
+0123456789",
+"8",
+"689",
+"?",
+"!?"
 );
 customParameters = (
 {
@@ -2161,6 +2204,9 @@ pos = (293,-9);
 },
 {
 pos = (314,564);
+},
+{
+pos = (286,567);
 }
 );
 id = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -17496,7 +17542,7 @@ unicode = 50;
 },
 {
 glyphname = three;
-lastChange = "2023-06-15 18:45:16 +0000";
+lastChange = "2023-06-16 17:17:42 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -17504,35 +17550,44 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(15,55,l),
-(75,-240,o),
-(469,-167,o),
-(469,77,cs),
-(469,146,o),
-(425,212,o),
-(327,234,c),
-(295,210,l),
-(525,305,o),
-(485,564,o),
-(239,564,cs),
-(1,564,o),
-(-41,309,o),
-(170,309,c),
-(117,617,o),
-(448,456,o),
-(202,210,c),
-(292,237,l),
-(61,385,o),
-(66,-37,o),
-(320,209,c),
-(239,167,l),
-(396,92,o),
-(220,-165,o),
-(21,59,c)
+(35,63,l),
+(35,-74,o),
+(141,-137,o),
+(251,-137,cs),
+(368,-137,o),
+(489,-65,o),
+(489,77,cs),
+(489,146,o),
+(445,212,o),
+(347,234,c),
+(315,210,l),
+(545,305,o),
+(505,564,o),
+(259,564,cs),
+(21,564,o),
+(-21,309,o),
+(190,309,c),
+(137,617,o),
+(468,456,o),
+(222,210,c),
+(312,237,l),
+(81,385,o),
+(86,-37,o),
+(340,209,c),
+(259,167,l),
+(301,147,o),
+(319,113,o),
+(319,80,cs),
+(319,26,o),
+(272,-28,o),
+(204,-28,cs),
+(157,-28,o),
+(100,-2,o),
+(41,67,c)
 );
 }
 );
-width = 494;
+width = 529;
 },
 {
 associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -17583,7 +17638,7 @@ unicode = 51;
 },
 {
 glyphname = four;
-lastChange = "2023-06-15 18:47:50 +0000";
+lastChange = "2023-06-16 17:08:08 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -17591,42 +17646,43 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(394,373,o),
-(354,371,o),
-(314,348,c),
-(303,185,o),
-(296,81,o),
-(277,-94,cs),
-(272,-143,o),
-(426,-156,o),
-(451,-95,c),
-(435,78,o),
-(434,224,o),
-(433,351,c)
+(406,338,o),
+(366,336,o),
+(326,313,c),
+(315,150,o),
+(308,81,o),
+(289,-94,cs),
+(284,-143,o),
+(438,-156,o),
+(463,-95,c),
+(447,78,o),
+(446,189,o),
+(445,316,c)
 );
 },
 {
 closed = 1;
 nodes = (
-(93,560,l),
-(104,465,o),
-(46,136,o),
-(20,75,c),
-(67,-8,o),
-(265,-44,o),
-(371,131,c),
-(371,166,l),
-(299,69,o),
-(179,68,o),
-(108,116,c),
-(79,33,l),
-(323,363,o),
-(283,561,o),
-(99,567,c)
+(175,560,l),
+(175,465,o),
+(55,146,o),
+(10,85,c),
+(27,49,l),
+(119,-20,o),
+(311,-6,o),
+(383,131,c),
+(383,185,l),
+(311,88,o),
+(191,87,o),
+(100,155,c),
+(51,53,l),
+(393,353,o),
+(365,561,o),
+(181,567,c)
 );
 }
 );
-width = 481.47;
+width = 488;
 },
 {
 associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -17839,13 +17895,58 @@ nodes = (
 }
 );
 width = 457.15;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "B8A9C56C-FF0F-4A7E-A062-7CDD985B4340";
+name = "Jun 16, 23, 13:03";
+shapes = (
+{
+closed = 1;
+nodes = (
+(414,373,o),
+(374,371,o),
+(334,348,c),
+(323,185,o),
+(316,81,o),
+(297,-94,cs),
+(292,-143,o),
+(446,-156,o),
+(471,-95,c),
+(455,78,o),
+(454,224,o),
+(453,351,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(153,560,l),
+(164,465,o),
+(46,136,o),
+(20,75,c),
+(67,-8,o),
+(285,-44,o),
+(391,131,c),
+(391,166,l),
+(319,69,o),
+(179,68,o),
+(108,116,c),
+(79,33,l),
+(373,363,o),
+(343,561,o),
+(159,567,c)
+);
+}
+);
+width = 481.47;
 }
 );
 unicode = 52;
 },
 {
 glyphname = five;
-lastChange = "2023-06-15 17:50:24 +0000";
+lastChange = "2023-06-16 17:17:09 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -17853,61 +17954,60 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(41,489,l),
-(42,483,ls),
-(75,324,o),
-(73,228,o),
-(50,151,c),
-(62,132,o),
-(83,123,o),
-(112,125,c),
-(133,161,o),
-(165,178,o),
-(195,178,cs),
-(246,178,o),
-(272,134,o),
-(272,86,cs),
-(272,14,o),
-(225,-33,o),
-(161,-33,cs),
-(120,-33,o),
-(73,-14,o),
-(27,29,c),
-(20,25,l),
-(20,-79,o),
-(120,-140,o),
-(221,-140,cs),
-(323,-140,o),
-(425,-78,o),
-(425,63,cs),
-(425,163,o),
-(362,263,o),
-(244,263,cs),
-(195,263,o),
-(142,244,o),
-(91,204,c),
-(134,197,l),
-(153,265,o),
-(159,298,o),
-(170,384,c),
-(114,355,l),
-(316,310,o),
-(401,292,o),
-(401,500,c),
-(347,457,o),
-(192,470,o),
-(43,491,c)
+(62,562,l),
+(94,432,o),
+(97,265,o),
+(72,180,c),
+(85,159,o),
+(108,149,o),
+(140,152,c),
+(163,192,o),
+(197,211,o),
+(229,211,cs),
+(275,211,o),
+(318,172,o),
+(318,103,cs),
+(318,23,o),
+(268,-32,o),
+(201,-32,cs),
+(153,-32,o),
+(96,-4,o),
+(43,65,c),
+(35,61,l),
+(35,-62,o),
+(156,-137,o),
+(273,-137,cs),
+(383,-137,o),
+(491,-70,o),
+(491,82,cs),
+(491,193,o),
+(421,303,o),
+(288,303,cs),
+(233,303,o),
+(174,282,o),
+(117,238,c),
+(167,231,l),
+(188,306,o),
+(195,352,o),
+(207,519,c),
+(142,488,l),
+(345,333,o),
+(458,345,o),
+(458,574,c),
+(399,527,o),
+(228,541,o),
+(64,564,c)
 );
 }
 );
-width = 449.77;
+width = 531;
 }
 );
 unicode = 53;
 },
 {
 glyphname = six;
-lastChange = "2023-06-09 16:36:00 +0000";
+lastChange = "2023-06-16 17:21:49 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -17915,43 +18015,83 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(468.49,670.871,l),
-(-47.52,670.871,o),
-(-81.041,-6,o),
-(279.69,-6,cs),
-(437.029,-6,o),
-(528.455,112.27,o),
-(528.455,250.226,cs),
-(528.455,456.701,o),
-(298.212,523.882,o),
-(191.49,345.871,c),
-(188.467,218.64,l),
-(223.651,409.43,o),
-(359.423,378.115,o),
-(359.423,224.898,cs),
-(359.423,138.57,o),
-(332.452,79,o),
-(279.423,79,cs),
-(226.394,79,o),
-(199.423,135.07,o),
-(199.423,245.31,cs),
-(199.423,415.018,o),
-(251.672,583.944,o),
-(469.138,663.944,c)
+(483,670,l),
+(-33,670,o),
+(-66,-7,o),
+(295,-7,cs),
+(452,-7,o),
+(543,111,o),
+(543,249,cs),
+(543,377,o),
+(447,449,o),
+(356,449,cs),
+(280,449,o),
+(206,398,o),
+(196,285,c),
+(199,218,l),
+(235,408,o),
+(374,377,o),
+(374,224,cs),
+(374,138,o),
+(347,78,o),
+(294,78,cs),
+(241,78,o),
+(215,134,o),
+(214,244,cs),
+(214,461,o),
+(281,570,o),
+(484,657,c)
 );
 }
 );
-width = 553.46;
+width = 603;
 }
 );
 unicode = 54;
 },
 {
 glyphname = seven;
-lastChange = "2023-06-15 17:50:29 +0000";
+lastChange = "2023-06-16 21:49:59 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(442,761,o),
+(355,450,c),
+(413,494,l),
+(313,494,o),
+(190,570,o),
+(107,570,cs),
+(-8,570,o),
+(-4,416,o),
+(58,374,c),
+(99,439,o),
+(273,390,o),
+(367,387,c),
+(348,433,l),
+(238,345,o),
+(155,163,o),
+(156,-87,cs),
+(156,-148,o),
+(311,-161,o),
+(331,-88,c),
+(302,186,o),
+(323,285,o),
+(448,403,c),
+(376,391,l),
+(707,327,o)
+);
+}
+);
+width = 548;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "E4ECB21C-C86B-42BA-9B62-1ABD4B39B62E";
+name = "Jun 16, 23, 13:23";
 shapes = (
 {
 closed = 1;
@@ -17996,26 +18136,140 @@ nodes = (
 }
 );
 width = 493.67;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "475D5075-3057-4760-AF17-DC9369792BC6";
+name = "Jun 16, 23, 14:07";
+shapes = (
+{
+closed = 1;
+nodes = (
+(419,768,o),
+(332,457,c),
+(370,504,l),
+(270,481,o),
+(147,568,o),
+(64,568,cs),
+(-51,568,o),
+(-47,414,o),
+(15,372,c),
+(56,437,o),
+(230,390,o),
+(324,387,c),
+(305,423,l),
+(185,335,o),
+(98,162,o),
+(78,-88,cs),
+(73,-149,o),
+(258,-162,o),
+(278,-89,c),
+(249,185,o),
+(294,284,o),
+(420,403,c),
+(343,371,l),
+(664,337,o)
+);
+}
+);
+width = 493.67;
 }
 );
 unicode = 55;
 },
 {
 glyphname = eight;
+lastChange = "2023-06-16 21:54:47 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(272,335,l),
+(391,346,o),
+(503,439,o),
+(502,524,cs),
+(502,736,o),
+(62,724,o),
+(62,484,cs),
+(62,329,o),
+(371,290,o),
+(371,167,cs),
+(371,49,o),
+(191,46,o),
+(191,196,cs),
+(191,230,o),
+(208,290,o),
+(239,326,c),
+(232,340,l),
+(121,340,o),
+(40,259,o),
+(40,165,cs),
+(40,46,o),
+(143,-7,o),
+(254,-7,cs),
+(386,-7,o),
+(531,68,o),
+(531,199,cs),
+(531,342,o),
+(204,395,o),
+(204,520,cs),
+(204,604,o),
+(362,627,o),
+(363,498,cs),
+(362,459,o),
+(353,403,o),
+(263,349,c)
+);
+}
+);
+width = 576;
 }
 );
 unicode = 56;
 },
 {
 glyphname = nine;
+lastChange = "2023-06-16 18:19:06 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(98,-142,l),
+(641,-142,o),
+(669,567,o),
+(308,567,cs),
+(151,567,o),
+(60,449,o),
+(60,311,cs),
+(60,183,o),
+(156,111,o),
+(247,111,cs),
+(323,111,o),
+(397,162,o),
+(407,275,c),
+(404,342,l),
+(368,152,o),
+(229,183,o),
+(229,336,cs),
+(229,422,o),
+(256,482,o),
+(304,482,cs),
+(362,482,o),
+(381,426,o),
+(382,316,cs),
+(382,99,o),
+(300,-43,o),
+(97,-129,c)
+);
+}
+);
+width = 618;
 }
 );
 unicode = 57;
@@ -18177,7 +18431,7 @@ unicode = 59;
 },
 {
 glyphname = exclam;
-lastChange = "2023-06-08 18:19:34 +0000";
+lastChange = "2023-06-16 21:57:12 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -18185,16 +18439,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(225.027,438,o),
-(278,648,o),
+(214,438,o),
+(267,648,o),
 (305,708,c),
 (272,817,o),
-(134.011,769.891,o),
-(126.409,726.227,cs),
+(134,770,o),
+(126.409,726.227,c),
 (115.912,665.929,o),
 (92,413.045,o),
-(86.015,286.621,cs),
-(81.955,200.88,o),
+(85,265,c),
+(82,201,o),
 (174.698,221.151,o),
 (203.027,249,c)
 );
@@ -18266,7 +18520,7 @@ unicode = 33;
 },
 {
 glyphname = question;
-lastChange = "2023-06-08 21:35:05 +0000";
+lastChange = "2023-06-16 21:56:21 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -18293,11 +18547,11 @@ nodes = (
 (502.193,703.67,o),
 (495.086,571.006,cs),
 (483.651,357.569,o),
-(254.943,414.358,o),
-(245.834,240.405,c),
-(214.645,213.45,o),
-(128.933,222.179,o),
-(131.059,281.5,cs)
+(215,414,o),
+(266,240,c),
+(235,213,o),
+(129,222,o),
+(131.059,281.5,c)
 );
 },
 {
@@ -19437,7 +19691,7 @@ B,
 ),
 (
 zero,
-1,
+0,
 0
 ),
 (
@@ -19558,6 +19812,18 @@ six,
 florin = (
 (
 f,
+1,
+0
+)
+);
+four = (
+(
+zero,
+1,
+0
+),
+(
+two,
 1,
 0
 )
