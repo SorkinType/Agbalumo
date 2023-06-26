@@ -1,5 +1,5 @@
 {
-.appVersion = "3201";
+.appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
 "0000102030405060708090
@@ -36,7 +36,14 @@ NHUV,
 HVHVVH",
 "/Q.004 ueen /Q.005 ueen /Q.006 uest",
 " /Q.007 uestion",
-K
+K,
+H,
+"/Q.006 ueen
+Question 
+/Q.007 uote
+Quant
+
+"
 );
 customParameters = (
 {
