@@ -2,38 +2,19 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"0000102030405060708090
-
-123456789012345678
-901234567890123456
-789012345678901234
-567890123456789012
-345678901234567890
-123456789012345678
-
-000 101 202 303 404 505 606 707 808 909 101    
-010 111 212 313 414 515 616 717 818 919 202
-020 121 222 323 424 525 626 727 828 929 303   
-030 131 232 333 434 535 636 737 838 939 404 
-040 141 242 343 444 545 646 747 848 949 505  
-050 151 252 353 454 555 656 757 858 959 606 
-060 161 262 363 464 565 666 767 868 969 707  
-070 171 272 373 474 575 676 777 878 979 808 
-080 181 282 383 484 585 686 787 888 989 909
-090 191 292 393 494 595 696 797 898 999 000
-Vouchsafe Verdraait Vzpomenout Veloci Vehicle Vastaus Vyrazili Vaderlandsloos Valiant Velada Vacuated Varlata Veneers Valesco Vocally Videoita Vapaina Votrelec Valtatie Vernon Vigtigst Veracious Vinicultural Verwonden Vettskremt Vittima Vertically Vaikutatte Vesto Vestri Vibist Viittaa Vanhentunut Vaku Vane Vanskelig Voldsomme Virran Vakta Vocoders Verglas Vapauttaa Varechs Valerie Vendibility Vypadat Vincent Venite Vaughn Vinnunni Vado Vinolent Verrez Visive Viitta Vexillologists Vrienden Verwandter Vitleysingurinn Varist",
-"/four.lf",
-"/zero.lf/one.lf",
-M,
-PR,
-".,",
-"i.,:;!?.",
-"…",
 NV,
 NHUV,
-"Vouchsafe Verdraait Vzpomenout Veloci Vehicle Vastaus Vyrazili Vaderlandsloos Valiant Velada Vacuated Varlata Veneers Valesco Vocally Videoita Vapaina Votrelec Valtatie Vernon Vigtigst Veracious Vinicultural Verwonden Vettskremt Vittima Vertically Vaikutatte Vesto Vestri Vibist Viittaa Vanhentunut Vaku Vane Vanskelig Voldsomme Virran Vakta Vocoders Verglas Vapauttaa Varechs Valerie Vendibility Vypadat Vincent Venite Vaughn Vinnunni Vado Vinolent Verrez Visive Viitta Vexillologists Vrienden Verwandter Vitleysingurinn Varist
-
-HVHVVH",
+"Numbers Test: 30 points
+000 010 020 030 040 050 060 070 080 090
+101 101 121 131 141 151 161 171 181 191
+202 212 222 232 242 252 262 272 282 292
+303 313 323 333 343 353 363 373 383 393
+404 414 424 434 444 454 464 474 484 494
+505 515 525 535 545 555 565 575 585 595
+606 616 626 636 646 656 666 676 686 696
+707 717 727 737 747 757 767 777 787 797
+808 818 828 838 848 858 868 878 888 898
+909 919 929 939 949 959 969 979 989 999",
 "/Q.004 ueen /Q.005 ueen /Q.006 uest",
 " /Q.007 uestion",
 K,
@@ -43,7 +24,11 @@ Question
 /Q.007 uote
 Quant
 
-"
+",
+"Infolding Matronising Holdet Motstandere Andare Rude Arcubalist Irene Nauravat Telerecords Holmes Crownless Nedd Ponte Prysuraf Engrelat Saluden Encarestiant Cyphered Cutis Wipeout Rozbila Seiches Pooping Stukkert Stalactitious Adsideres Potentizing Overviolent Redress Dichasium Sterling Fiende Satanisch Philatelic Haluaisitko Kommandoen Hallanod Physiologists Griezels Stoffer Geschuftet Desassimileu Leadless Traumatizes Monophthongises Peculiums Inhalo Telefonsvarer Vermoedelijk Grinyolen Malleiform Speiderne Hard Absentibus Llandudno Historiated Savuke Confinements Rooflessness",
+"Queen
+/Q.006 ueen",
+"01234156789"
 );
 customParameters = (
 {
@@ -18897,7 +18882,7 @@ unicode = 49;
 },
 {
 glyphname = two;
-lastChange = "2023-06-15 18:30:58 +0000";
+lastChange = "2023-06-26 15:20:40 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -18905,36 +18890,36 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(368,466,o),
-(285,201,o),
-(156,142,c),
-(227,144,l),
-(-51,368,o),
-(-44,-223,o),
-(257,89,c),
-(174,52,l),
-(258,41,o),
-(352,-7,o),
-(411,-7,cs),
-(527,-7,o),
-(539,159,o),
-(481,199,c),
-(414,115,o),
-(334,125,o),
-(260,143,c),
-(261,119,l),
-(374,188,o),
-(471,317,o),
-(471,412,cs),
-(471,497,o),
-(411,564,o),
-(280,564,cs),
-(1,564,o),
-(10,308,o),
-(230,308,c),
-(194,391,o),
-(218,466,o),
-(265,466,cs)
+(370,466,o),
+(298,231,o),
+(147,142,c),
+(225,144,l),
+(83,252,o),
+(15,172,o),
+(15,95,cs),
+(15,10,o),
+(94,-72,o),
+(244,89,c),
+(167,52,l),
+(259,41,o),
+(363,-7,o),
+(428,-7,cs),
+(556,-7,o),
+(569,157,o),
+(505,197,c),
+(431,113,o),
+(343,134,o),
+(262,152,c),
+(263,119,l),
+(524,239,o),
+(594,564,o),
+(284,564,cs),
+(-24,564,o),
+(-14,288,o),
+(229,288,c),
+(189,371,o),
+(215,466,o),
+(267,466,cs)
 );
 }
 );
@@ -18992,13 +18977,56 @@ nodes = (
 }
 );
 width = 527.35;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "A7FC169F-77D6-4540-A598-9CA7FD7D3BB5";
+name = "Jun 26, 23, 11:15";
+shapes = (
+{
+closed = 1;
+nodes = (
+(358,466,o),
+(275,201,o),
+(156,142,c),
+(227,143,l),
+(-51,367,o),
+(-44,-223,o),
+(257,89,c),
+(174,52,l),
+(258,41,o),
+(352,-7,o),
+(411,-7,cs),
+(527,-7,o),
+(539,158,o),
+(481,198,c),
+(414,114,o),
+(334,124,o),
+(260,142,c),
+(261,119,l),
+(374,188,o),
+(471,317,o),
+(471,412,cs),
+(471,497,o),
+(411,564,o),
+(280,564,cs),
+(1,564,o),
+(10,288,o),
+(230,288,c),
+(194,371,o),
+(218,466,o),
+(265,466,cs)
+);
+}
+);
+width = 545;
 }
 );
 unicode = 50;
 },
 {
 glyphname = three;
-lastChange = "2023-06-16 17:17:42 +0000";
+lastChange = "2023-06-26 15:22:21 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -19006,15 +19034,15 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(35,63,l),
-(35,-74,o),
-(141,-137,o),
-(251,-137,cs),
-(368,-137,o),
-(489,-65,o),
-(489,77,cs),
-(489,146,o),
-(445,212,o),
+(45,83,l),
+(45,-69,o),
+(150,-136,o),
+(257,-136,cs),
+(372,-136,o),
+(491,-60,o),
+(491,72,cs),
+(491,143,o),
+(447,212,o),
 (347,234,c),
 (315,210,l),
 (545,305,o),
@@ -19023,23 +19051,26 @@ nodes = (
 (21,564,o),
 (-21,309,o),
 (190,309,c),
-(137,617,o),
-(468,456,o),
+(171,420,o),
+(207,465,o),
+(245,465,cs),
+(303,465,o),
+(366,354,o),
 (222,210,c),
 (312,237,l),
 (81,385,o),
-(86,-37,o),
+(126,-37,o),
 (340,209,c),
 (259,167,l),
 (301,147,o),
 (319,113,o),
 (319,80,cs),
-(319,26,o),
-(272,-28,o),
-(204,-28,cs),
-(157,-28,o),
-(100,-2,o),
-(41,67,c)
+(319,17,o),
+(278,-14,o),
+(227,-14,cs),
+(171,-14,o),
+(104,21,o),
+(60,90,c)
 );
 }
 );
@@ -19238,10 +19269,66 @@ unicode = 52;
 },
 {
 glyphname = five;
-lastChange = "2023-06-16 17:17:09 +0000";
+lastChange = "2023-06-26 15:31:03 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(62,562,l),
+(104,432,o),
+(108,328,o),
+(64,193,c),
+(85,159,o),
+(128,140,o),
+(160,143,c),
+(185,188,o),
+(218,209,o),
+(247,209,cs),
+(294,209,o),
+(320,160,o),
+(320,108,cs),
+(320,27,o),
+(270,-15,o),
+(209,-15,cs),
+(154,-15,o),
+(91,20,o),
+(50,89,c),
+(35,81,l),
+(35,-60,o),
+(155,-136,o),
+(271,-136,cs),
+(561,-136,o),
+(560,302,o),
+(289,302,cs),
+(234,302,o),
+(174,282,o),
+(117,238,c),
+(163,222,l),
+(208,297,o),
+(219,396,o),
+(204,510,c),
+(142,488,l),
+(230,420,o),
+(302,385,o),
+(354,385,cs),
+(422,385,o),
+(458,445,o),
+(458,574,c),
+(399,527,o),
+(228,541,o),
+(64,564,c)
+);
+}
+);
+width = 531;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "AE710C88-1146-4966-972A-E20707D0ABD9";
+name = "Jun 26, 23, 11:27";
 shapes = (
 {
 closed = 1;
@@ -19253,29 +19340,26 @@ nodes = (
 (85,159,o),
 (108,149,o),
 (140,152,c),
-(163,192,o),
-(197,211,o),
-(229,211,cs),
-(275,211,o),
-(318,172,o),
-(318,103,cs),
-(318,23,o),
-(268,-32,o),
-(201,-32,cs),
-(153,-32,o),
-(96,-4,o),
-(43,65,c),
-(35,61,l),
-(35,-62,o),
-(156,-137,o),
-(273,-137,cs),
-(383,-137,o),
-(491,-70,o),
-(491,82,cs),
-(491,193,o),
-(421,303,o),
-(288,303,cs),
-(233,303,o),
+(163,193,o),
+(198,211,o),
+(230,211,cs),
+(277,211,o),
+(319,172,o),
+(319,104,cs),
+(319,26,o),
+(269,-15,o),
+(209,-15,cs),
+(154,-15,o),
+(91,19,o),
+(50,89,c),
+(35,81,l),
+(35,-60,o),
+(155,-136,o),
+(271,-136,cs),
+(561,-136,o),
+(560,302,o),
+(289,302,cs),
+(234,302,o),
 (174,282,o),
 (117,238,c),
 (167,231,l),
@@ -19299,7 +19383,7 @@ unicode = 53;
 },
 {
 glyphname = six;
-lastChange = "2023-06-22 19:30:03 +0000";
+lastChange = "2023-06-26 15:35:16 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -19307,8 +19391,8 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(483,670,l),
-(-33,670,o),
+(483,671,l),
+(-33,671,o),
 (-66,-7,o),
 (295,-7,cs),
 (452,-7,o),
@@ -19324,15 +19408,15 @@ nodes = (
 (235,408,o),
 (374,377,o),
 (374,224,cs),
-(374,138,o),
-(347,78,o),
-(294,78,cs),
-(241,78,o),
-(215,134,o),
+(374,161,o),
+(347,98,o),
+(294,98,cs),
+(241,98,o),
+(214,157,o),
 (214,244,cs),
 (214,461,o),
-(281,570,o),
-(484,657,c)
+(281,569,o),
+(484,656,c)
 );
 }
 );
@@ -20161,6 +20245,16 @@ width = 505.42;
 }
 );
 unicode = 63;
+},
+{
+glyphname = newGlyph;
+lastChange = "2023-06-26 23:16:41 +0000";
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+width = 600;
+}
+);
 }
 );
 metrics = (
