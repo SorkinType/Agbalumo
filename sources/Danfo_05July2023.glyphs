@@ -13,7 +13,8 @@ DisplayStrings = (
 "«‹",
 "«‹›",
 "»",
-"«»"
+"«Within these guillemets lies a world where dreams take flight and wonders unfold.»",
+"«Within these guillemets lies a world where dreams take flight and wonders unfold.»"
 );
 customParameters = (
 {
@@ -2062,19 +2063,10 @@ pos = (593,-4);
 pos = (552.399,160.259);
 },
 {
-pos = (351.885,133.259);
-},
-{
-pos = (360.742,110.112);
-},
-{
-pos = (149.905,29.113);
+pos = (294,31);
 },
 {
 pos = (947.272,142.259);
-},
-{
-pos = (343.799,119.5);
 },
 {
 pos = (78.298,445.43);
@@ -2088,10 +2080,6 @@ pos = (427,726);
 {
 angle = 179.8763;
 pos = (808,612);
-},
-{
-angle = 90;
-pos = (399,161);
 },
 {
 pos = (422,-25);
@@ -2109,21 +2097,11 @@ pos = (663,69);
 pos = (7,631);
 },
 {
-pos = (151,491);
-},
-{
 angle = 180;
 pos = (612.48,199);
 },
 {
 pos = (311.951,719.881);
-},
-{
-angle = 180;
-pos = (140.182,224.898);
-},
-{
-pos = (220.738,271.549);
 },
 {
 angle = 90;
@@ -2158,11 +2136,7 @@ pos = (314,564);
 pos = (286,567);
 },
 {
-angle = 180;
-pos = (177,185);
-},
-{
-pos = (277,466);
+pos = (347,480);
 },
 {
 pos = (714,637);
@@ -21663,7 +21637,7 @@ unicode = 8217;
 },
 {
 glyphname = guillemetleft;
-lastChange = "2023-07-06 01:43:09 +0000";
+lastChange = "2023-07-06 01:49:22 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -21676,14 +21650,14 @@ ref = guilsinglleft;
 ref = guilsinglleft;
 }
 );
-width = 798;
+width = 791;
 }
 );
 unicode = 171;
 },
 {
 glyphname = guillemetright;
-lastChange = "2023-07-06 01:47:04 +0000";
+lastChange = "2023-07-06 01:49:30 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -21696,14 +21670,14 @@ ref = guilsinglright;
 ref = guilsinglright;
 }
 );
-width = 476;
+width = 796;
 }
 );
 unicode = 187;
 },
 {
 glyphname = guilsinglleft;
-lastChange = "2023-07-06 01:45:33 +0000";
+lastChange = "2023-07-06 01:50:57 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -21711,18 +21685,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(40,103,o),
-(306,-67,o),
-(408,80,c),
-(280,128,o),
-(200,199,o),
-(200,242,cs),
-(200,286,o),
-(269,346,o),
-(431,436,c),
-(399,621,o),
-(40,394,o),
-(40,249,cs)
+(54,105,o),
+(301,-53,o),
+(396,84,c),
+(277,128,o),
+(202,194,o),
+(202,234,cs),
+(202,275,o),
+(267,331,o),
+(417,415,c),
+(388,587,o),
+(54,376,o),
+(54,241,cs)
 );
 }
 );
@@ -21765,14 +21739,14 @@ unicode = 8249;
 },
 {
 glyphname = guilsinglright;
-lastChange = "2023-07-06 01:46:08 +0000";
+lastChange = "2023-07-06 01:51:22 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
 angle = 180;
-pos = (471,520);
+pos = (471,511);
 ref = guilsinglleft;
 }
 );
