@@ -12,7 +12,9 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FDanfo%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FDanfo%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Untitled is a font that pulls inspiration from the popular Danfo bus letterings ubiquitous in Lagos, Nigeria. The typeface has a charming and cute look that could be used for different purposes but will especially shine through in packaged items. 
+
+Untitled is designed by ColumnType
 
 Don't hesitate to create images!
 
