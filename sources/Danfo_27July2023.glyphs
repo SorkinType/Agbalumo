@@ -14,7 +14,10 @@ d,
 "5̨̧Ç",
 "Çç̧",
 "¸",
-"…"
+"…",
+"ą",
+"J/Jacute NÑnñ",
+"̧Ç"
 );
 customParameters = (
 {
@@ -2094,7 +2097,7 @@ pos = (7,631);
 },
 {
 angle = 180;
-pos = (369,185);
+pos = (446,185);
 },
 {
 angle = 90;
@@ -2134,7 +2137,7 @@ pos = (714,637);
 },
 {
 angle = 90;
-pos = (252,711);
+pos = (315,700);
 },
 {
 pos = (72,518);
@@ -5453,7 +5456,7 @@ unicode = 73;
 },
 {
 glyphname = J;
-lastChange = "2023-07-26 18:19:53 +0000";
+lastChange = "2023-07-27 23:24:39 +0000";
 layers = (
 {
 anchors = (
@@ -5463,7 +5466,7 @@ pos = (275,0);
 },
 {
 name = top;
-pos = (275,720);
+pos = (347,720);
 }
 );
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -7439,7 +7442,7 @@ unicode = 77;
 },
 {
 glyphname = N;
-lastChange = "2023-07-26 15:35:33 +0000";
+lastChange = "2023-07-27 23:25:02 +0000";
 layers = (
 {
 associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -7804,7 +7807,7 @@ pos = (343,0);
 },
 {
 name = top;
-pos = (343,720);
+pos = (403,720);
 }
 );
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -13187,7 +13190,7 @@ unicode = 109;
 },
 {
 glyphname = n;
-lastChange = "2023-07-26 15:35:33 +0000";
+lastChange = "2023-07-27 23:25:19 +0000";
 layers = (
 {
 anchors = (
@@ -13197,7 +13200,7 @@ pos = (295,0);
 },
 {
 name = top;
-pos = (295,500);
+pos = (315,500);
 }
 );
 background = {
@@ -17051,7 +17054,7 @@ unicode = 204;
 },
 {
 glyphname = Jacute;
-lastChange = "2023-07-27 20:36:29 +0000";
+lastChange = "2023-07-27 23:24:39 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -17060,7 +17063,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (119,220);
+pos = (191,220);
 ref = acutecomb;
 }
 );
@@ -17070,7 +17073,7 @@ width = 550;
 },
 {
 glyphname = Ntilde;
-lastChange = "2023-07-27 20:36:29 +0000";
+lastChange = "2023-07-27 23:25:02 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -17079,7 +17082,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (107,220);
+pos = (167,220);
 ref = tildecomb;
 }
 );
@@ -23745,7 +23748,7 @@ width = 318;
 },
 {
 glyphname = ntilde;
-lastChange = "2023-07-27 20:36:29 +0000";
+lastChange = "2023-07-27 23:25:19 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -23754,7 +23757,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (59,0);
+pos = (79,0);
 ref = tildecomb;
 }
 );
@@ -32646,7 +32649,7 @@ unicode = 803;
 },
 {
 glyphname = cedillacomb;
-lastChange = "2023-07-27 21:11:08 +0000";
+lastChange = "2023-07-27 23:26:03 +0000";
 layers = (
 {
 anchors = (
@@ -32665,8 +32668,8 @@ shapes = (
 closed = 1;
 nodes = (
 (46,0,l),
-(144,-101,o),
-(46,-187,o),
+(137,-94,o),
+(39,-179,o),
 (-18,-118,c),
 (-22,-120,l),
 (-16,-352,o),
