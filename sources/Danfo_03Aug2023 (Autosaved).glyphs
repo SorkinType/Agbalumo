@@ -25836,8 +25836,9 @@ metricRight = n;
 unicode = 295;
 },
 {
+color = 0;
 glyphname = hhook;
-lastChange = "2023-08-03 19:27:11 +0000";
+lastChange = "2023-08-03 19:40:34 +0000";
 layers = (
 {
 anchors = (
@@ -26052,6 +26053,7 @@ width = 577;
 }
 );
 unicode = 614;
+changeCount = 2;
 },
 {
 glyphname = idotless;
