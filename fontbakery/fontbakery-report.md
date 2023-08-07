@@ -2,21 +2,7 @@
 
 Fontbakery version: 0.8.11
 
-<details><summary><b>[15] Danfo-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
-		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
-
-		You can exclude this check with the command line option:
-		-x com.google.fonts/check/fontdata_namecheck
-
-		Or you can wait until the service is available again.
-		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
-
-		Original error message:
-		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
+<details><summary><b>[14] Danfo-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
 
 
 * 🔥 **FAIL** In this font fsType is set to 8 meaning that:
@@ -1124,8 +1110,8 @@ The following glyphs do not have the recommended number of contours:
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 1 | 7 | 7 | 127 | 7 | 93 | 0 |
-| 0% | 3% | 3% | 52% | 3% | 38% | 0% |
+| 0 | 7 | 7 | 127 | 7 | 94 | 0 |
+| 0% | 3% | 3% | 52% | 3% | 39% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
