@@ -2,15 +2,8 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"̄+n×≈",
-"0/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom",
-"N⁄///zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom ⁄",
-"nze/zero.dnom N⁄%   ‰",
-"/zero.lf/zero.dnom/zero.numr %⁄N",
-"%/zero.dnom/zero.numr ‰",
-"₴",
-"/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom",
-"/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom"
+"/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom",
+A
 );
 customParameters = (
 {
@@ -2154,12 +2147,12 @@ pos = (264,-109);
 id = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 metricValues = (
 {
-over = 20;
-pos = 700;
+over = 10;
+pos = 690;
 },
 {
-over = 20;
-pos = 720;
+over = 10;
+pos = 710;
 },
 {
 over = -20;
