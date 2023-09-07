@@ -1,88 +1,37 @@
 {
-.appVersion = "3213";
+.appVersion = "3208";
 .formatVersion = 3;
 DisplayStrings = (
-"0000102030405060708090
+"1/one.lf/one.osf",
+"010203040506070809000
 
-123456789012345678
-901234567890123456
-789012345678901234
-567890123456789012
-345678901234567890
-123456789012345678
+111213141516171819101
 
-000 101 202 303 404 505 606 707 808 909 101    
-010 111 212 313 414 515 616 717 818 919 202
-020 121 222 323 424 525 626 727 828 929 303   
-030 131 232 333 434 535 636 737 838 939 404 
-040 141 242 343 444 545 646 747 848 949 505  
-050 151 252 353 454 555 656 757 858 959 606 
-060 161 262 363 464 565 666 767 868 969 707  
-070 171 272 373 474 575 676 777 878 979 808 
-080 181 282 383 484 585 686 787 888 989 909
-090 191 292 393 494 595 696 797 898 999 000",
-OQ,
-Z,
-CG,
-"Downiest Pospěšte Doucely Zmýlil Informován Tráela Irisher Haud Insistency Drijvend Ímyndunarafl Præsenterede Subversionary Stoope Planifiquen Oplossing Vorne Hulpdiensten Nochel Nevěříš Chapesses Figyelmesen Cathismas Ampuls Aberro Crossfire Zdalo Forbereder Perdónenme Confusedly Pentacrinoid Señoras Noista Morgnana Ette Yawp Unclothe Paraphrastical Pierna Smoulder Sangen Salones Håner Kissing Föstu Eksistens Quebec Patsas Rozšíří Trews Cicatrices Hydroids Mucrones Chili Összejött Érjen Fothergillas Feleségemet Pyrotechnists Bluebeard",
-"1½",
-"AAĄ",
-"hȟ",
-"fɦ",
-"̄ī",
-a,
-"̇ȧ",
-"̏ȁ",
-"ɉ",
-"/lcommaaccent.loclMAH",
-"/commaaccentcomb.loclMAH",
-"ʰn",
-0Hn,
-"/zero.dnom",
-"/one.dnom/one.numr",
-"/two.dnom",
-k,
-"Ǝ",
-"HƎƎHH",
-"ə",
-"Ə",
-"/caroncomb.case Ṧ",
-"/acutecomb.case Ṥ",
-"ɓɦf",
-"ɓɗf",
-"nʰN",
-"4",
-"/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf",
-"/one.tf",
-"/two.tf",
-"/zero.tf",
-"/zero.lf",
-"/one.dnom/two.dnom n",
+212223242526272829202
+
+313233343536373839303
+
+414243444546474849404
+
+515253545556575859505
+
+616263646566676869606
+
+717273747576777879707
+
+818283848586878889808
+
+919293949596979899909",
+"2/two.lf/two.osf",
+"2/two.lf/two.osf/two.tf/two.dnom",
+"/one.dnom/two.dnom",
+"¼",
+"/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom",
+"/one.numr",
 "/two.dnom/four.dnom",
-"/four.dnom ¼",
-"₂",
-"/two.dnom   H₂O",
-"later.²",
-"™",
-"₺",
-"̐",
-"HH
-OO
-oo
-nn
-ii
-in
-on",
-"///capslash_part.",
-"Ⱥ",
-"ȺȻ",
-"ⱥ",
-"/lcslash_part. a",
-"ø/lcslash_part.",
-"ȼ",
-"ⱥȼ",
-"ⱥ/lcslash_part. ȼø",
-"ⱥȼø"
+"⁄",
+"/two.dnom",
+"½"
 );
 classes = (
 {
