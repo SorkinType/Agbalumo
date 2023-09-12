@@ -49139,23 +49139,9 @@ unicode = 451;
 {
 color = 0;
 glyphname = hmod;
-lastChange = "2023-09-12 00:26:00 +0000";
+lastChange = "2023-09-12 02:10:15 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (217,0);
-},
-{
-name = center;
-pos = (245,289);
-},
-{
-name = top;
-pos = (152,506);
-}
-);
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
@@ -49317,19 +49303,9 @@ unicode = 688;
 {
 color = 0;
 glyphname = nmod;
-lastChange = "2023-09-12 00:35:22 +0000";
+lastChange = "2023-09-12 02:10:13 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (213,0);
-},
-{
-name = top;
-pos = (248,361);
-}
-);
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
@@ -49707,19 +49683,9 @@ unicode = 7512;
 {
 color = 0;
 glyphname = vmod;
-lastChange = "2023-09-12 00:51:19 +0000";
+lastChange = "2023-09-12 02:10:05 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (210,0);
-},
-{
-name = top;
-pos = (246,361);
-}
-);
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
@@ -49828,23 +49794,9 @@ unicode = 7515;
 {
 color = 0;
 glyphname = zmod;
-lastChange = "2023-09-12 01:56:53 +0000";
+lastChange = "2023-09-12 02:09:57 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (239.311,0);
-},
-{
-name = center;
-pos = (257.094,180.688);
-},
-{
-name = top;
-pos = (255.478,361.376);
-}
-);
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
