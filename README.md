@@ -12,9 +12,9 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FDanfo%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FDanfo%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Untitled is a font that pulls inspiration from the popular Danfo bus letterings ubiquitous in Lagos, Nigeria. The typeface has a charming and cute look that could be used for different purposes but will especially shine through in packaged items. 
+The Agbálùmọ̀ typeface has a charming and cute look that could be used for different purposes but will especially shine through in packaged items. 
 
-Untitled is designed by ColumnType
+Agbalumo is designed by ColumnType
 
 Don't hesitate to create images!
 
