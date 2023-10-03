@@ -18,8 +18,6 @@ Agbalumo is a single weight font. The glyph set includes standard opentype featu
 
 Agbalumo is designed by ColumnType
 
-Don't hesitate to create images!
-
 ![Sample Image](documentation/image.jpg)
 
 ## About
