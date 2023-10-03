@@ -25,7 +25,8 @@ Don't hesitate to create images!
 ## About
 
 ColumnType is a type foundry founded by Raphael Alegbeleye with the sole aim of creating and supporting beautiful, distinct fonts that represent African languages. 
-<a href="https://www.columntype.xyz">ColumnType</a>
+
+<a href="https://www.columntype.xyz">columntype.xyz</a>
 
 ## Building
 
