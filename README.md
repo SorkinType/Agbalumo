@@ -14,7 +14,7 @@
 
 Curvy, chunky, and compact. The Agbálùmọ̀ display typeface has been designed to represent and capture the beauty of African languages. Primarily taking shape from the use of a brush pen, it's charming, playful, and cute look lends itself to a variety of commercial use cases. From beautifully curated eye catching websites to brightly colored packaged items, if you aim to communicate personality, Agbálùmọ̀ is a sure selection. 
 
-Agbálùmọ̀ is a single weight font. The glyph set includes standard opentype features and an assortment of stylistic alternates. 
+Agbálùmọ̀ is a single weight font. The glyph set includes standard opentype features and an assortment of stylistic alternates. Agbálùmọ̀ can be used for African languages that make use of the Latin script, European languages, and Vietnamese. 
 
 Agbálùmọ̀ is designed by ColumnType
 
@@ -24,7 +24,8 @@ Don't hesitate to create images!
 
 ## About
 
-Description of you and/or organisation goes here.
+ColumnType is a type foundry founded by Raphael Alẹ́gbẹ́lẹ́yẹ̀ with the sole aim of creating and supporting beautiful, distinct fonts that represent African languages. 
+Columntype.xyz
 
 ## Building
 
