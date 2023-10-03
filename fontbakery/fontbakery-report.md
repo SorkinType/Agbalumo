@@ -2,128 +2,20 @@
 
 Fontbakery version: 0.8.11
 
-<details><summary><b>[17] Agbalumo-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
+<details><summary><b>[11] Agbalumo-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
-* 🔥 **FAIL** Font names are incorrect:
-
-| nameID | current | expected |
-| :--- | :--- | :--- |
-| Family Name | Agbalumo Regular | Agbalumo |
-| Subfamily Name | Italic | Regular |
-| Full Name | Agbalumo Regular | Agbalumo Regular |
-| Poscript Name | Agbalumo-Regular | Agbalumo-Regular |
-| Typographic Family Name | Agbalumo | N/A |
-| Typographic Subfamily Name | Regular | N/A | [code: bad-names]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1180 when it should be at least 1200 [code: bad-hhea-range]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1163, but got 1150 instead [code: ascent]
+* 🔥 **FAIL** OS/2 sTypoAscender (900) and hhea ascent (1200) must be equal. [code: ascender]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
 * 🔥 **FAIL** Current Font Bakery version is 0.8.11, while a newer 0.9.2 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following glyphs could not be attached to the dotted circle glyph:
-
-	- acutecomb
-
-	- dotbelowcomb
-
-	- gravecomb
-
-	- hookabovecomb
-
-	- tildecomb
-
-	- uni0302
-
-	- uni0304
-
-	- uni0306
-
-	- uni0307
-
-	- uni0308
-
-	- uni030A
-
-	- uni030B
-
-	- uni030C
-
-	- uni030D
-
-	- uni030F
-
-	- uni0310
-
-	- uni0311
-
-	- uni0312
-
-	- uni0313
-
-	- uni031B
-
-	- uni0324
-
-	- uni0325
-
-	- uni0326
-
-	- uni0327
-
-	- uni0328
-
-	- uni0329
-
-	- uni032D
-
-	- uni032E
-
-	- uni032F
-
-	- uni0330
-
-	- uni0331
-
-	- uni0332
-
-	- uni1DC4
-
-	- uni1DC5
-
-	- uni1DC6
-
-	- uni1DC7 
-
-	- uni1DCA [code: unattached-dotted-circle-marks]
 </div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
 
 
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ ị̀ ị́ ị̂ ị̃ ị̄
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇
 
 The dot of soft dotted characters should disappear in other cases, for example: i᷄ i᷅ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̥᷄ i̥᷅ i̥᷆ i̥᷇ i̦᷄ i̦᷅ i̦᷆ i̦᷇ i̧᷄ i̧᷅ [code: soft-dotted]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking head.macStyle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/head.html#com.google.fonts/check/mac_style">com.google.fonts/check/mac_style</a>)</summary><div>
-
-
-* 🔥 **FAIL** head macStyle ITALIC bit should be unset. [code: bad-ITALIC]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsSelection value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/os2.html#com.google.fonts/check/fsselection">com.google.fonts/check/fsselection</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 fsSelection REGULAR bit should be set. [code: bad-REGULAR]
-* 🔥 **FAIL** OS/2 fsSelection ITALIC bit should be unset. [code: bad-ITALIC]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (derived from com.google.fonts/check/italic_angle) (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/post.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font is not italic, so post.italicAngle should be equal to zero. [code: non-zero-upright]
 </div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
@@ -266,10 +158,6 @@ The dot of soft dotted characters should disappear in other cases, for example: 
 
 	- 0x02BD (MODIFIER LETTER REVERSED COMMA)
  [code: missing-codepoints]
-</div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
-
-
-* ⚠ **WARN** This font lacks caret position values for ligature glyphs on its GDEF table. [code: lacks-caret-pos]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -626,14 +514,22 @@ greaterequal
 	* uniA727 (U+A727): B<<255.0,432.0>-<244.0,386.0>-<233.0,346.0>>/B<<233.0,346.0>-<252.0,383.0>-<283.5,419.5>> = 11.804859836651074 
 
 	* uniA7B9 (U+A7B9): B<<255.5,327.5>-<244.0,280.0>-<236.0,236.0>>/B<<236.0,236.0>-<267.0,317.0>-<299.0,387.5>> = 10.63780408122225 [code: found-jaggy-segments]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+
+	* summation (U+2211): L<<412.0,564.0>--<247.0,563.0>> 
+
+	* uni01A9 (U+01A9): L<<408.0,574.0>--<230.0,573.0>> [code: found-semi-vertical]
 </div></details><br></div></details>
 
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 9 | 8 | 118 | 7 | 100 | 0 |
-| 0% | 4% | 3% | 49% | 3% | 41% | 0% |
+| 0 | 3 | 8 | 117 | 7 | 107 | 0 |
+| 0% | 1% | 3% | 48% | 3% | 44% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
