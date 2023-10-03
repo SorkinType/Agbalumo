@@ -20,7 +20,7 @@ Agbalumo is designed by ColumnType
 
 Don't hesitate to create images!
 
-![Sample Image](documentation/image1.jpg)
+![Sample Image](documentation/image.jpg)
 
 ## About
 
