@@ -2047,14 +2047,12 @@ feature lnum;
 feature pnum;
 feature tnum;
 feature onum;
-feature c2sc;
 feature case;
 feature ss01;
 feature ss02;
 feature ss03;
 feature ss04;
 feature ss05;
-feature smcp;
 ";
 tag = aalt;
 },
@@ -2099,8 +2097,15 @@ lookup ccmp_latn_1 {
 	sub itildebelow by i tildebelowcomb;
 } ccmp_latn_1;
 
+lookup ccmp_latn_2 {
+	sub fi by f i;
+	sub fl by f l;
+	sub Ldot by L periodcentered.loclCAT.case;
+} ccmp_latn_2;
+
 script latn;
 lookup ccmp_latn_1;
+lookup ccmp_latn_2;
 ";
 tag = ccmp;
 },
@@ -2162,8 +2167,8 @@ lookup locl_latn_4 {
 script latn;
 language CAT;
 lookup locl_latn_5 {
-	sub  l' periodcentered' l by ldot;
-	sub  L' periodcentered' L by Ldot;
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
 } locl_latn_5;
 ";
 tag = locl;
@@ -2262,6 +2267,7 @@ tag = frac;
 automatic = 1;
 code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
 ";
 tag = ordn;
 },
@@ -2387,7 +2393,8 @@ tag = onum;
 },
 {
 automatic = 1;
-code = "sub dieresiscomb by dieresiscomb.case;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub dieresiscomb by dieresiscomb.case;
 sub dotaccentcomb by dotaccentcomb.case;
 sub gravecomb by gravecomb.case;
 sub gravecomb_macroncomb by gravecomb_macroncomb.case;
