@@ -2,8 +2,7 @@
 .appVersion = "3221";
 .formatVersion = 3;
 DisplayStrings = (
-"i᷄ i᷅ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̥᷄ i̥᷅ i̥᷆ i̥᷇ i̦᷄ i̦᷅
-          i̦᷆ i̦᷇ i̧᷄ i̧᷅",
+"i̩᷆ i̩᷇ i̭᷆ i̭᷇ i̮᷆ i̮᷇ i̯᷆ i̯᷇ ḭ᷆ ḭ᷇ i̱᷆ i̱᷇ i̲᷆ i̲᷇ i̴᷆ ",
 y
 );
 axes = (
@@ -2040,7 +2039,7 @@ code = "lookup ccmp_DFLT_1 {
 } ccmp_DFLT_1;
 
 lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb macronacutecomb gravemacroncomb horncomb dieresisbelowcomb ringbelowcomb commaaccentcomb cedillacomb];
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb macronacutecomb acutemacroncomb macrongravecomb gravemacroncomb horncomb dieresisbelowcomb ringbelowcomb commaaccentcomb cedillacomb verticallinebelowcomb circumflexbelowcomb brevebelowcomb breveinvertedbelowcomb tildebelowcomb lowlinecomb macronbelowcomb tildeoverlaycomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
