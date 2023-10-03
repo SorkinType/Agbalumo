@@ -2,11 +2,9 @@
 .appVersion = "3221";
 .formatVersion = 3;
 DisplayStrings = (
-"/idotbelow.dotless",
-"/iogonek.dotless",
-"/istroke.dotless",
-"/itildebelow.dotless",
-"/jcrossedtail.dotless"
+"i᷄ i᷅ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̤᷄ i̤᷅ i̤᷆ i̤᷇ i̥᷄ i̥᷅ i̥᷆ i̥᷇ i̦᷄ i̦᷅
+          i̦᷆ i̦᷇ i̧᷄ i̧᷅",
+y
 );
 axes = (
 {
@@ -2042,7 +2040,7 @@ code = "lookup ccmp_DFLT_1 {
 } ccmp_DFLT_1;
 
 lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb];
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb candraBinducomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb verticallineabovecomb macronacutecomb gravemacroncomb horncomb dieresisbelowcomb ringbelowcomb commaaccentcomb cedillacomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
@@ -2052,6 +2050,7 @@ lookup ccmp_Other_1 {
 	sub istroke' @CombiningTopAccents by istroke.dotless;
 	sub j' @CombiningTopAccents by jdotless;
 	sub jcrossedtail' @CombiningTopAccents by jcrossedtail.dotless;
+
 } ccmp_Other_1;
 
 lookup ccmp_Other_2 {
@@ -2561,7 +2560,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 900;
+value = 1200;
 },
 {
 name = typoDescender;
