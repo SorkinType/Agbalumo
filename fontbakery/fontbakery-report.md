@@ -6,12 +6,6 @@ Fontbakery version: 0.8.11
 
 
 * 🔥 **FAIL** Current Font Bakery version is 0.8.11, while a newer 0.9.2 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i᷆ i᷇
-
-The dot of soft dotted characters should disappear in other cases, for example: i̩᷆ i̩᷇ i̭᷆ i̭᷇ i̮᷆ i̮᷇ i̯᷆ i̯᷇ ḭ᷆ ḭ᷇ i̱᷆ i̱᷇ i̲᷆ i̲᷇ i̴᷆ i̴᷇ i᷊᷆ i᷊᷇ j᷆ j᷇ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
@@ -440,6 +434,10 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: ygrave	Contours detected: 3	Expected: 2
  [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* ⚠ **WARN** The dot of soft dotted characters should disappear in other cases, for example: ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅ [code: soft-dotted]
 </div></details><details><summary>⚠ <b>WARN:</b> Check math signs have the same width. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/math_signs_width">com.google.fonts/check/math_signs_width</a>)</summary><div>
 
 
@@ -524,8 +522,8 @@ greaterequal
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 2 | 8 | 117 | 7 | 108 | 0 |
-| 0% | 1% | 3% | 48% | 3% | 45% | 0% |
+| 0 | 1 | 9 | 117 | 7 | 108 | 0 |
+| 0% | 0% | 4% | 48% | 3% | 45% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
