@@ -463,7 +463,7 @@ Width = 541:
 multiply
 
 Width = 548:
-divide, minus
+minus, divide
 
 Width = 546:
 approxequal
