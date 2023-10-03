@@ -12,11 +12,11 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FDanfo%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FDanfo%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Curvy, chunky, and compact. The Agbálùmọ̀ display typeface has been designed to represent and capture the beauty of African languages. Primarily taking shape from the use of a brush pen, it's charming, playful, and cute look lends itself to a variety of commercial use cases. From beautifully curated eye catching websites to brightly colored packaged items, if you aim to communicate personality, Agbálùmọ̀ is a sure selection. 
+Curvy, chunky, and compact. The Agbalumo display typeface has been designed to represent and capture the beauty of African languages. Primarily taking shape from the use of a brush pen, it's charming, playful, and cute look lends itself to a variety of commercial use cases. From beautifully curated eye catching websites to brightly colored packaged items, if you aim to communicate personality, Agbalumo is a sure selection. 
 
-Agbálùmọ̀ is a single weight font. The glyph set includes standard opentype features and an assortment of stylistic alternates. Agbálùmọ̀ can be used for African languages that make use of the Latin script, European languages, and Vietnamese. 
+Agbalumo is a single weight font. The glyph set includes standard opentype features and an assortment of stylistic alternates. Agbalumo can be used for African languages that make use of the Latin script, European languages, and Vietnamese. 
 
-Agbálùmọ̀ is designed by ColumnType
+Agbalumo is designed by ColumnType
 
 Don't hesitate to create images!
 
@@ -24,8 +24,8 @@ Don't hesitate to create images!
 
 ## About
 
-ColumnType is a type foundry founded by Raphael Alẹ́gbẹ́lẹ́yẹ̀ with the sole aim of creating and supporting beautiful, distinct fonts that represent African languages. 
-Columntype.xyz
+ColumnType is a type foundry founded by Raphael Alegbeleye with the sole aim of creating and supporting beautiful, distinct fonts that represent African languages. 
+<a href="https://www.columntype.xyz">ColumnType</a>
 
 ## Building
 
