@@ -12,9 +12,11 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FDanfo%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FDanfo%2Fgh-pages%2Fbadges%2FUniversal.json
 
-The Agbálùmọ̀ typeface has a charming and cute look that could be used for different purposes but will especially shine through in packaged items. 
+Curvy, chunky, and compact. The Agbálùmọ̀ display typeface has been designed to represent and capture the beauty of African languages. Primarily taking shape from the use of a brush pen, it's charming, playful, and cute look lends itself to a variety of commercial use cases. From beautifully curated eye catching websites to brightly colored packaged items, if you aim to communicate personality, Agbálùmọ̀ is a sure selection. 
 
-Agbalumo is designed by ColumnType
+Agbálùmọ̀ is a single weight font. The glyph set includes standard opentype features and an assortment of stylistic alternates. 
+
+Agbálùmọ̀ is designed by ColumnType
 
 Don't hesitate to create images!
 
