@@ -23,7 +23,7 @@ Agbalumo is designed by ColumnType
 
 ## About
 
-ColumnType is a type foundry founded by Raphael Alegbeleye with the primary aim of creating and supporting beautiful, distinct fonts that represent African languages. 
+ColumnType is a foundry founded by Raphael Alegbeleye with the primary aim of creating and supporting beautiful, distinct fonts representing African languages. 
 
 <a href="https://www.columntype.xyz">columntype.xyz</a>
 
