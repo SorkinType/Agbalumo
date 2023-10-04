@@ -10347,7 +10347,7 @@ unicode = 400;
 },
 {
 glyphname = Ereversed;
-lastChange = "2023-10-03 15:49:14 +0000";
+lastChange = "2023-10-04 16:04:08 +0000";
 layers = (
 {
 anchors = (
@@ -10439,7 +10439,7 @@ layerId = "06A9439E-D48F-41F6-BD89-9891A7FC77D8";
 name = "Sep 26, 23, 17:52";
 shapes = (
 {
-pos = (493,0);
+pos = (537,0);
 ref = E;
 scale = (-1,1);
 }
@@ -15409,7 +15409,7 @@ unicode = 42922;
 },
 {
 glyphname = Hturned;
-lastChange = "2023-10-03 15:49:14 +0000";
+lastChange = "2023-10-04 16:04:08 +0000";
 layers = (
 {
 associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -15418,7 +15418,7 @@ name = "Sep 27, 23, 11:39";
 shapes = (
 {
 angle = 180;
-pos = (596,720);
+pos = (577,720);
 ref = h;
 }
 );
@@ -190628,6 +190628,15 @@ values = (
 {
 language = dflt;
 value = "Raphael Alegbeleye";
+}
+);
+},
+{
+key = copyrights;
+values = (
+{
+language = ENG;
+value = "Copyright 2023 The Agbalumo Project Authors (https://github.com/SorkinType/Agbalumo)";
 }
 );
 }
