@@ -8,7 +8,10 @@ E,
 "/gravecomb_macroncomb",
 "/circumflexcomb_acutecomb ấ",
 "̛uư",
-"ơư"
+"ơư",
+"ớ",
+"ơớợờởơỡưứựừửưữ",
+"ƯỨ"
 );
 axes = (
 {
@@ -64082,10 +64085,25 @@ unicode = 417;
 {
 color = 11;
 glyphname = ohornacute;
-lastChange = "2023-10-04 19:32:10 +0000";
+lastChange = "2023-10-04 20:11:10 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (211,0);
+ref = acutecomb;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "DD5F1139-0D2D-42C2-BFB6-3F1B4B365C30";
+name = "Oct 4, 23, 16:11";
 shapes = (
 {
 ref = o;
@@ -64107,21 +64125,17 @@ unicode = 7899;
 {
 color = 11;
 glyphname = ohorndotbelow;
-lastChange = "2023-10-03 16:33:53 +0000";
+lastChange = "2023-10-04 20:11:19 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
-ref = o;
+ref = ohorn;
 },
 {
 pos = (185,0);
 ref = dotbelowcomb;
-},
-{
-pos = (362,-60);
-ref = horncomb;
 }
 );
 width = 567;
@@ -64132,21 +64146,17 @@ unicode = 7907;
 {
 color = 11;
 glyphname = ohorngrave;
-lastChange = "2023-10-04 19:32:10 +0000";
+lastChange = "2023-10-04 20:11:22 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
-ref = o;
+ref = ohorn;
 },
 {
 pos = (130,0);
 ref = gravecomb;
-},
-{
-pos = (362,-60);
-ref = horncomb;
 }
 );
 width = 567;
@@ -64157,21 +64167,17 @@ unicode = 7901;
 {
 color = 11;
 glyphname = ohornhookabove;
-lastChange = "2023-10-03 16:33:30 +0000";
+lastChange = "2023-10-04 20:11:24 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
-ref = o;
+ref = ohorn;
 },
 {
 pos = (140,0);
 ref = hookabovecomb;
-},
-{
-pos = (362,-60);
-ref = horncomb;
 }
 );
 width = 567;
@@ -64182,7 +64188,7 @@ unicode = 7903;
 {
 color = 11;
 glyphname = ohorntilde;
-lastChange = "2023-10-04 19:32:10 +0000";
+lastChange = "2023-10-04 20:11:55 +0000";
 layers = (
 {
 annotations = (
@@ -64194,6 +64200,29 @@ width = 92;
 }
 );
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (134,0);
+ref = tildecomb.narrow3;
+}
+);
+width = 567;
+},
+{
+annotations = (
+{
+pos = (135,945);
+text = "Adjust tilde on this";
+type = Text;
+width = 92;
+}
+);
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "6D82787C-0D13-4FDA-8BE6-788E25D26AB9";
+name = "Oct 4, 23, 16:11";
 shapes = (
 {
 ref = o;
@@ -74302,21 +74331,17 @@ unicode = 432;
 {
 color = 11;
 glyphname = uhornacute;
-lastChange = "2023-10-04 19:32:10 +0000";
+lastChange = "2023-10-04 20:12:09 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
-ref = u;
+ref = uhorn;
 },
 {
 pos = (222,0);
 ref = acutecomb;
-},
-{
-pos = (425,-61);
-ref = horncomb;
 }
 );
 width = 589;
@@ -74327,21 +74352,17 @@ unicode = 7913;
 {
 color = 11;
 glyphname = uhorndotbelow;
-lastChange = "2023-10-03 16:34:55 +0000";
+lastChange = "2023-10-04 20:12:11 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
-ref = u;
+ref = uhorn;
 },
 {
 pos = (196,0);
 ref = dotbelowcomb;
-},
-{
-pos = (425,-61);
-ref = horncomb;
 }
 );
 width = 589;
@@ -74352,21 +74373,17 @@ unicode = 7921;
 {
 color = 11;
 glyphname = uhorngrave;
-lastChange = "2023-10-04 19:32:10 +0000";
+lastChange = "2023-10-04 20:12:13 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
-ref = u;
+ref = uhorn;
 },
 {
 pos = (141,0);
 ref = gravecomb;
-},
-{
-pos = (425,-61);
-ref = horncomb;
 }
 );
 width = 589;
@@ -74377,21 +74394,17 @@ unicode = 7915;
 {
 color = 11;
 glyphname = uhornhookabove;
-lastChange = "2023-10-03 16:35:18 +0000";
+lastChange = "2023-10-04 20:12:15 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
-ref = u;
+ref = uhorn;
 },
 {
 pos = (151,0);
 ref = hookabovecomb;
-},
-{
-pos = (425,-61);
-ref = horncomb;
 }
 );
 width = 589;
@@ -74402,10 +74415,25 @@ unicode = 7917;
 {
 color = 11;
 glyphname = uhorntilde;
-lastChange = "2023-10-04 19:32:10 +0000";
+lastChange = "2023-10-04 20:12:30 +0000";
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (145,0);
+ref = tildecomb.narrow2;
+}
+);
+width = 589;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "7620E231-D33D-4CAB-916D-A27B7CF0EEAF";
+name = "Oct 4, 23, 16:12";
 shapes = (
 {
 ref = u;
