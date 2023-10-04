@@ -12,7 +12,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FDanfo%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FDanfo%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Curvy, chunky, and compact. The Agbalumo display typeface has been designed to represent and capture the beauty of African languages. Primarily taking shape from the use of a brush pen, it's charming, playful, and cute look lends itself to a variety of commercial use cases. From beautifully curated eye catching websites to brightly colored packaged items, if you aim to communicate personality, Agbalumo is a sure selection. 
+Curvy, chunky, and compact. The Agbalumo display typeface has been designed to represent and capture the beauty of African languages. Primarily taking shape from the use of a brush pen, it's charming, playful, and cute look lends itself to a variety of commercial and cultural use cases. 
 
 Agbalumo is a single weight font. The glyph set includes standard opentype features and an assortment of stylistic alternates. Agbalumo can be used for African languages that make use of the Latin script, European languages, and Vietnamese. 
 
