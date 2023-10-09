@@ -73,7 +73,9 @@ DisplayStrings = (
 "Ƀ",
 "Ⱥ",
 "√",
-"Ɪ"
+"Ɪ",
+"â/acircumflex.ss05/acircumflexdotbelow.ss05",
+fl
 );
 axes = (
 {
@@ -2139,8 +2141,6 @@ lookup ccmp_latn_1 {
 } ccmp_latn_1;
 
 lookup ccmp_latn_2 {
-	sub fi by f i;
-	sub fl by f l;
 	sub Ldot by L periodcentered.loclCAT.case;
 } ccmp_latn_2;
 
@@ -84364,64 +84364,6 @@ nodes = (
 width = 636;
 }
 );
-},
-{
-color = 3;
-glyphname = fi;
-lastChange = "2023-10-03 17:02:05 +0000";
-layers = (
-{
-anchors = (
-{
-name = caret_1;
-pos = (347,0);
-}
-);
-layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
-shapes = (
-{
-ref = f;
-},
-{
-pos = (392,0);
-ref = i;
-}
-);
-width = 717;
-}
-);
-metricLeft = f;
-metricRight = i;
-unicode = 64257;
-},
-{
-color = 3;
-glyphname = fl;
-lastChange = "2023-10-03 17:02:13 +0000";
-layers = (
-{
-anchors = (
-{
-name = caret_1;
-pos = (337,0);
-}
-);
-layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
-shapes = (
-{
-ref = f;
-},
-{
-pos = (398,0);
-ref = l;
-}
-);
-width = 704;
-}
-);
-metricLeft = f;
-metricRight = l;
-unicode = 64258;
 },
 {
 glyphname = i_j.loclNLD;
