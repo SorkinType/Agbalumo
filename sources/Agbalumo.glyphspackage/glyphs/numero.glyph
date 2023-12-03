@@ -1,0 +1,21 @@
+{
+glyphname = numero;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = N;
+},
+{
+alignment = -1;
+pos = (634,0);
+ref = o;
+}
+);
+width = 1201;
+}
+);
+metricRight = "=28";
+unicode = 8470;
+}

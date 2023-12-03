@@ -1,0 +1,19 @@
+{
+color = 7;
+glyphname = circumflexcomb_gravecomb.case;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = circumflexcomb.case;
+},
+{
+pos = (54,177);
+ref = gravecomb.case;
+}
+);
+width = 368;
+}
+);
+}

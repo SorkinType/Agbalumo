@@ -1,0 +1,39 @@
+{
+color = 8;
+glyphname = tildebelowcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (179,0);
+},
+{
+name = bottom;
+pos = (161,-200);
+}
+);
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(61,-126,o),
+(109,-191,o),
+(239,-191,cs),
+(349,-191,o),
+(384,-115,o),
+(345,-42,c),
+(248,-110,o),
+(191,-52,o),
+(90,-52,cs),
+(8,-52,o),
+(-43,-106,o),
+(-20,-200,c)
+);
+}
+);
+width = 401;
+}
+);
+}

@@ -1,0 +1,34 @@
+{
+glyphname = Fdotaccent;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = F;
+},
+{
+pos = (257,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 548;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "6B0B7B52-7873-46CD-8093-DEFD48A09989";
+name = "Sep 15, 23, 17:39";
+shapes = (
+{
+ref = F;
+},
+{
+pos = (257,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 548;
+}
+);
+unicode = 7710;
+}

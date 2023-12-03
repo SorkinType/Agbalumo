@@ -1,0 +1,19 @@
+{
+color = 7;
+glyphname = brevecomb_tildecomb.case;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = brevecomb.case;
+},
+{
+pos = (-13,177);
+ref = tildecomb.case;
+}
+);
+width = 333;
+}
+);
+}

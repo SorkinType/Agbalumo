@@ -1,0 +1,24 @@
+{
+color = 11;
+glyphname = abrevedotbelow;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (183,0);
+ref = dotbelowcomb;
+},
+{
+pos = (173,0);
+ref = brevecomb;
+}
+);
+width = 564;
+}
+);
+unicode = 7863;
+}

@@ -1,0 +1,39 @@
+{
+color = 11;
+glyphname = uhorntilde;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (163,0);
+ref = tildecomb.narrow2;
+}
+);
+width = 589;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "7620E231-D33D-4CAB-916D-A27B7CF0EEAF";
+name = "Oct 4, 23, 16:12";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (163,0);
+ref = tildecomb.narrow2;
+},
+{
+pos = (425,-61);
+ref = horncomb;
+}
+);
+width = 589;
+}
+);
+unicode = 7919;
+}

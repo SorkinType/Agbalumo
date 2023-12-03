@@ -1,0 +1,29 @@
+{
+glyphname = zero.numr;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+alignment = -1;
+pos = (0,242);
+ref = zero.dnom;
+}
+);
+width = 463;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "2ECDAB0D-96D2-4092-875E-959C47E5DEC5";
+name = "Sep 6, 23, 13:17";
+shapes = (
+{
+alignment = -1;
+pos = (0,421);
+ref = zero.dnom;
+}
+);
+width = 660;
+}
+);
+}

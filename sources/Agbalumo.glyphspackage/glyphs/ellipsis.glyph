@@ -1,0 +1,122 @@
+{
+glyphname = ellipsis;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = 1;
+pos = (34,0);
+ref = period;
+},
+{
+alignment = 1;
+pos = (312,0);
+ref = period;
+},
+{
+alignment = 1;
+pos = (590,0);
+ref = period;
+}
+);
+};
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(776,-6,o),
+(825,40,o),
+(825,96,cs),
+(825,148,o),
+(784,188,o),
+(728,188,cs),
+(668,188,o),
+(620,141,o),
+(620,85,cs),
+(620,33,o),
+(660,-6,o),
+(716,-6,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(176,-6,o),
+(225,40,o),
+(225,96,cs),
+(225,148,o),
+(184,188,o),
+(128,188,cs),
+(68,188,o),
+(20,141,o),
+(20,85,cs),
+(20,33,o),
+(60,-6,o),
+(116,-6,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(476,-6,o),
+(525,40,o),
+(525,96,cs),
+(525,148,o),
+(484,188,o),
+(428,188,cs),
+(368,188,o),
+(320,141,o),
+(320,85,cs),
+(320,33,o),
+(360,-6,o),
+(416,-6,cs)
+);
+}
+);
+width = 845;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+background = {
+shapes = (
+{
+alignment = 1;
+pos = (20,0);
+ref = period;
+},
+{
+alignment = 1;
+pos = (298,0);
+ref = period;
+},
+{
+alignment = 1;
+pos = (576,0);
+ref = period;
+}
+);
+};
+layerId = "6F5425E6-32FF-4BE9-B931-7F6AA42A722E";
+name = "Sep 30, 23, 19:08";
+shapes = (
+{
+ref = period;
+},
+{
+pos = (300,0);
+ref = period;
+},
+{
+pos = (600,0);
+ref = period;
+}
+);
+width = 845;
+}
+);
+metricLeft = "=+20";
+metricRight = "=+20";
+unicode = 8230;
+}

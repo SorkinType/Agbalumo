@@ -1,0 +1,18 @@
+{
+glyphname = atilde.ss05;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (121,0);
+ref = tildecomb;
+}
+);
+width = 510;
+}
+);
+}

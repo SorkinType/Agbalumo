@@ -1,0 +1,22 @@
+{
+glyphname = foursuperior;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+pos = (0,446);
+ref = four.dnom;
+}
+);
+width = 442;
+}
+);
+unicode = 8308;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

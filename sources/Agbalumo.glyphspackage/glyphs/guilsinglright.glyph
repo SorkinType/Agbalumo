@@ -1,0 +1,36 @@
+{
+glyphname = guilsinglright;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+angle = 180;
+pos = (438,513);
+ref = guilsinglleft;
+}
+);
+width = 438;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "24AAD73F-1CA9-43FB-898C-EAD0E6E646BD";
+name = "Sep 30, 23, 19:08";
+shapes = (
+{
+angle = 180;
+pos = (438,513);
+ref = guilsinglleft;
+}
+);
+width = 438;
+}
+);
+unicode = 8250;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

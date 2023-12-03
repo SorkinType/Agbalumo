@@ -1,0 +1,24 @@
+{
+glyphname = umacrondieresis;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (147,0);
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (128,190);
+ref = dieresiscomb;
+}
+);
+width = 589;
+}
+);
+unicode = 7803;
+}

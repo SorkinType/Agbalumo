@@ -1,0 +1,138 @@
+{
+glyphname = ordmasculine;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (200,0);
+},
+{
+name = center;
+pos = (222,250);
+},
+{
+name = ogonek;
+pos = (317,10);
+},
+{
+name = top;
+pos = (244,500);
+},
+{
+name = topright;
+pos = (382,440);
+}
+);
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(321,215,o),
+(397,327,o),
+(397,427,cs),
+(397,509,o),
+(347,583,o),
+(236,583,cs),
+(99,583,o),
+(21,470,o),
+(21,369,cs),
+(21,288,o),
+(72,215,o),
+(183,215,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(170,276,o),
+(153,330,o),
+(153,388,cs),
+(153,452,o),
+(174,522,o),
+(212,522,cs),
+(245,522,o),
+(262,468,o),
+(262,410,cs),
+(262,345,o),
+(240,276,o),
+(203,276,cs)
+);
+}
+);
+width = 412;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (200,0);
+},
+{
+name = center;
+pos = (222,250);
+},
+{
+name = ogonek;
+pos = (317,10);
+},
+{
+name = top;
+pos = (244,500);
+},
+{
+name = topright;
+pos = (382,440);
+}
+);
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "1C71FD55-92B5-47EC-9429-847E5EFEC3B7";
+name = "Sep 30, 23, 18:42";
+shapes = (
+{
+closed = 1;
+nodes = (
+(321,215,o),
+(397,327,o),
+(397,428,cs),
+(397,509,o),
+(347,583,o),
+(237,583,cs),
+(99,583,o),
+(21,470,o),
+(21,370,cs),
+(21,288,o),
+(72,215,o),
+(181,215,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(170,276,o),
+(153,330,o),
+(153,388,cs),
+(153,452,o),
+(174,522,o),
+(214,522,cs),
+(245,522,o),
+(262,468,o),
+(262,411,cs),
+(262,345,o),
+(240,276,o),
+(202,276,cs)
+);
+}
+);
+width = 412;
+}
+);
+unicode = 186;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

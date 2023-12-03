@@ -1,0 +1,19 @@
+{
+glyphname = rcommaaccent;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (85,0);
+ref = commaaccentcomb;
+}
+);
+width = 471;
+}
+);
+unicode = 343;
+}

@@ -1,0 +1,25 @@
+{
+color = 11;
+glyphname = Ocircumflexhookabove;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (203,0);
+ref = circumflexcomb.case;
+},
+{
+anchor = top_hook;
+pos = (454,53);
+ref = hookabovecomb.case;
+}
+);
+width = 672;
+}
+);
+unicode = 7892;
+}
