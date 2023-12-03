@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Ncommaaccent.loclMAH;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (231,0);
+ref = commaaccentcomb.case;
+}
+);
+width = 695;
+}
+);
+}

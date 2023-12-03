@@ -1,0 +1,25 @@
+{
+glyphname = twosuperior;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+alignment = -1;
+pos = (39,441);
+ref = two.dnom;
+}
+);
+width = 492;
+}
+);
+metricLeft = two;
+metricRight = two;
+unicode = 178;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

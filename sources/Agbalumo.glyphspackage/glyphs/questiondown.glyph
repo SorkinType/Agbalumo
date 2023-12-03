@@ -1,0 +1,35 @@
+{
+glyphname = questiondown;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+angle = 180;
+pos = (544,501);
+ref = question;
+}
+);
+width = 534;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "9894B0F0-982C-4E86-8463-63D9BD08C516";
+name = "Sep 30, 23, 19:08";
+shapes = (
+{
+angle = 180;
+pos = (544,501);
+ref = question;
+}
+);
+width = 534;
+}
+);
+unicode = 191;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
+}

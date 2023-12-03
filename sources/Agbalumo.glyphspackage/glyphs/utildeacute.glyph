@@ -1,0 +1,23 @@
+{
+glyphname = utildeacute;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (150,0);
+ref = tildecomb;
+},
+{
+pos = (260,180);
+ref = acutecomb;
+}
+);
+width = 589;
+}
+);
+unicode = 7801;
+}

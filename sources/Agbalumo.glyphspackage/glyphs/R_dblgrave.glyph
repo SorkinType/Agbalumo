@@ -1,0 +1,19 @@
+{
+glyphname = Rdblgrave;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (152,0);
+ref = dblgravecomb.case;
+}
+);
+width = 664;
+}
+);
+unicode = 528;
+}

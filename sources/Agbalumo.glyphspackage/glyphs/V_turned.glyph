@@ -1,0 +1,17 @@
+{
+glyphname = Vturned;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+angle = 180;
+pos = (678,720);
+ref = V;
+}
+);
+width = 678;
+}
+);
+unicode = 581;
+}

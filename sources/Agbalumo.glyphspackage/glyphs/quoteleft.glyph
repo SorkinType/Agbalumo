@@ -1,0 +1,36 @@
+{
+glyphname = quoteleft;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+angle = 180;
+pos = (326,1160);
+ref = quoteright;
+}
+);
+width = 296;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "DE449B13-A747-4B55-8C46-575C34C41A06";
+name = "Sep 30, 23, 19:08";
+shapes = (
+{
+angle = 180;
+pos = (326,1160);
+ref = quoteright;
+}
+);
+width = 296;
+}
+);
+unicode = 8216;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

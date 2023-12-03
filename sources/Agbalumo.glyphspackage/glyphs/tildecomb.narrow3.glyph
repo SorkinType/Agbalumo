@@ -1,0 +1,40 @@
+{
+glyphname = tildecomb.narrow3;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (172,500);
+},
+{
+name = top;
+pos = (174,700);
+}
+);
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,632,o),
+(120,567,o),
+(224,567,cs),
+(312,567,o),
+(341,643,o),
+(310,716,c),
+(232,648,o),
+(186,706,o),
+(105,706,cs),
+(39,706,o),
+(-9,632,o),
+(17,558,c)
+);
+}
+);
+width = 332;
+}
+);
+metricLeft = "=10";
+metricRight = "=10";
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Dcaron;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (239,0);
+ref = caroncomb.case;
+}
+);
+width = 688;
+}
+);
+unicode = 270;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = eightsuperior;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+pos = (0,441);
+ref = eight.dnom;
+}
+);
+width = 461;
+}
+);
+unicode = 8312;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

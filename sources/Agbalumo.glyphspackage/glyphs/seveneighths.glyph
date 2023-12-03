@@ -1,0 +1,30 @@
+{
+glyphname = seveneighths;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+alignment = -1;
+ref = seven.numr;
+},
+{
+pos = (327,0);
+ref = fraction;
+},
+{
+pos = (619,0);
+ref = eight.dnom;
+}
+);
+width = 1019;
+}
+);
+metricLeft = seven.numr;
+metricRight = seven.numr;
+unicode = 8542;
+userData = {
+KernOnSpecialSpacing = {
+};
+};
+}

@@ -1,0 +1,38 @@
+{
+glyphname = ccedillaacute;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = ccedilla;
+},
+{
+pos = (212,9);
+ref = acutecomb;
+}
+);
+width = 489;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "792F2DD8-90DC-442B-846E-1ED3BDF75B70";
+name = "Oct 9, 23, 13:45";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (144,0);
+ref = cedillacomb;
+},
+{
+pos = (212,9);
+ref = acutecomb;
+}
+);
+width = 489;
+}
+);
+unicode = 7689;
+}
