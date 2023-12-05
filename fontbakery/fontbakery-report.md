@@ -1,8 +1,17 @@
 ## FontBakery report
 
-fontbakery version: 0.9.2
+fontbakery version: 0.10.2
 
-<details><summary><b>[11] Agbalumo-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+<details><summary><b>[13] Agbalumo-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
+
+
+* 🔥 **FAIL** Version number 1.0 is equal to version on Google Fonts.
+* 🔥 **FAIL** Version number 1.0 is equal to version on Google Fonts GitHub repo.
+</div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
+
+
+* 🔥 **FAIL** Current FontBakery version is 0.10.2, while a newer 0.10.6 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
@@ -157,21 +166,21 @@ fontbakery version: 0.9.2
  * U+02B7 MODIFIER LETTER SMALL W: not included in any glyphset definition
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh
+ * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
- * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
- * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, cherokee, tifinagh
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, coptic, malayalam, tifinagh, math, canadian-aboriginal, old-permic, syriac
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, math, coptic, malayalam, syriac, tifinagh, tai-le, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -187,8 +196,8 @@ fontbakery version: 0.9.2
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032E COMBINING BREVE BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, cherokee, gothic, syriac, caucasian-albanian
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
+ * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, caucasian-albanian, tifinagh, cherokee, gothic
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
@@ -238,14 +247,15 @@ fontbakery version: 0.9.2
  * U+2260 NOT EQUAL TO: try adding math
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
- * U+25CC DOTTED CIRCLE: try adding one of: elbasan, oriya, myanmar, tagalog, gunjala-gondi, rejang, sundanese, cham, kayah-li, mende-kikakui, osage, brahmi, tirhuta, meetei-mayek, grantha, sharada, coptic, masaram-gondi, tai-le, modi, manichaean, adlam, takri, bhaiksuki, chakma, sinhala, wancho, tagbanwa, psalter-pahlavi, zanabazar-square, devanagari, gurmukhi, bassa-vah, khojki, yi, batak, kaithi, lepcha, caucasian-albanian, kharoshthi, math, ahom, javanese, syriac, soyombo, balinese, sogdian, hanifi-rohingya, kannada, tamil, thai, tai-viet, pahawh-hmong, duployan, hanunoo, new-tai-lue, tifinagh, nko, buhid, gujarati, dogra, bengali, mahajani, old-permic, siddham, symbols, khudawadi, lao, phags-pa, mongolian, tibetan, newa, thaana, syloti-nagri, telugu, limbu, marchen, hebrew, mandaic, khmer, buginese, malayalam, miao, music
+ * U+25CC DOTTED CIRCLE: try adding one of: tagbanwa, hanifi-rohingya, buginese, hanunoo, miao, bhaiksuki, psalter-pahlavi, newa, tai-le, old-permic, buhid, siddham, kaithi, new-tai-lue, duployan, masaram-gondi, sogdian, symbols, khudawadi, javanese, myanmar, adlam, batak, syloti-nagri, zanabazar-square, math, takri, syriac, lao, khojki, mende-kikakui, mahajani, gurmukhi, thai, kayah-li, meetei-mayek, phags-pa, telugu, pahawh-hmong, music, oriya, tamil, limbu, kharoshthi, chakma, bassa-vah, cham, brahmi, dogra, modi, soyombo, marchen, yi, tai-viet, wancho, manichaean, hebrew, sharada, gujarati, lepcha, caucasian-albanian, bengali, devanagari, malayalam, kannada, thaana, tirhuta, tagalog, grantha, elbasan, osage, sundanese, tibetan, balinese, gunjala-gondi, coptic, sinhala, mongolian, rejang, khmer, mandaic, nko, ahom, tifinagh
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
 
 Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `latin`, `latin-ext`, `vietnamese` [code: unreachable-subsetting]
-</div></details><details><summary>⚠ <b>WARN:</b> Font has old ttfautohint applied? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/old_ttfautohint">com.google.fonts/check/old_ttfautohint</a>)</summary><div>
+</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
-* ⚠ **WARN** ttfautohint used in font = 1.8.3; latest = 1.8.4; Need to re-run with the newer version! [code: old-ttfa]
+* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* uni019A
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -505,17 +515,17 @@ greaterequal
 
 * ⚠ **WARN** The dot of soft dotted characters _should_ disappear in other cases, for example: ɉ̀ ɉ́ ɉ̂ ɉ̃ ɉ̄ ɉ̆ ɉ̇ ɉ̈ ɉ̉ ɉ̊ ɉ̋ ɉ̌ ɉ̍ ɉ̏ ɉ̐ ɉ̑ ɉ̒ ɉ̓ ɉ᷄ ɉ᷅
 
-Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Koonzime (Latn, 40,000 speakers), Ma’di (Latn, 584,000 speakers), Ebira (Latn, 2,200,000 speakers), Aghem (Latn, 38,843 speakers), Nateni (Latn, 100,000 speakers), Kom (Latn, 360,685 speakers), Navajo (Latn, 166,319 speakers), Lithuanian (Latn, 2,357,094 speakers), Lugbara (Latn, 2,200,000 speakers), Igbo (Latn, 27,823,640 speakers), Basaa (Latn, 332,940 speakers), Avokaya (Latn, 100,000 speakers). 
+Your font fully covers the following languages that require the soft-dotted feature: Ma’di (Latn, 584,000 speakers), Igbo (Latn, 27,823,640 speakers), Basaa (Latn, 332,940 speakers), Nateni (Latn, 100,000 speakers), Aghem (Latn, 38,843 speakers), Avokaya (Latn, 100,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Dutch (Latn, 31,709,104 speakers), Ebira (Latn, 2,200,000 speakers), Lugbara (Latn, 2,200,000 speakers), Navajo (Latn, 166,319 speakers), Kom (Latn, 360,685 speakers), Koonzime (Latn, 40,000 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: Ukrainian (Cyrl, 29,273,587 speakers), Dan (Latn, 1,099,244 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ejagham (Latn, 120,000 speakers). [code: soft-dotted]
+Your font does *not* cover the following languages that require the soft-dotted feature: Dan (Latn, 1,099,244 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ejagham (Latn, 120,000 speakers), Belarusian (Cyrl, 10,064,517 speakers). [code: soft-dotted]
 </div></details><br></div></details>
 
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 0 | 11 | 120 | 7 | 111 | 0 |
-| 0% | 0% | 4% | 48% | 3% | 45% | 0% |
+| 0 | 2 | 11 | 119 | 7 | 115 | 0 |
+| 0% | 1% | 4% | 47% | 3% | 45% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
