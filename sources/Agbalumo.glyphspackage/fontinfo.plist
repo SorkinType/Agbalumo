@@ -2671,7 +2671,7 @@ name = inferior_overshoot_height;
 pos = (230,884);
 },
 {
-pos = (459,719);
+pos = (500,726);
 },
 {
 pos = (185,701);
@@ -2711,10 +2711,10 @@ pos = (432,-4);
 },
 {
 angle = 180;
-pos = (244,76);
+pos = (358,112);
 },
 {
-pos = (432,-7);
+pos = (432,-4);
 },
 {
 pos = (346,710);
@@ -2733,14 +2733,14 @@ pos = (772,460);
 {
 angle = 180;
 name = superior_height;
-pos = (20,434);
+pos = (20,432);
 },
 {
 name = superior_height;
 pos = (488,813);
 },
 {
-pos = (176,585);
+pos = (210,580);
 },
 {
 angle = 264.0578;
@@ -2760,7 +2760,7 @@ name = inferior_overshoot_bottom;
 pos = (336,-198);
 },
 {
-pos = (-685,122);
+pos = (-685,142);
 },
 {
 pos = (847,-17);
