@@ -120,11 +120,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (121,10);
+pos = (118,10);
 ref = ogonekcomb.case;
 }
 );
-width = 537;
+width = 656;
 }
 );
 unicode = 280;

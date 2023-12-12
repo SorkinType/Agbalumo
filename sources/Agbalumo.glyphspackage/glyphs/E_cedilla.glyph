@@ -113,11 +113,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (95,0);
+pos = (92,0);
 ref = cedillacomb.case;
 }
 );
-width = 537;
+width = 656;
 }
 );
 unicode = 552;

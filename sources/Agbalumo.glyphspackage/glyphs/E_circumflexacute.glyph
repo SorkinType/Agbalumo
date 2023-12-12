@@ -9,7 +9,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (168,0);
+pos = (165,0);
 ref = circumflexcomb.case;
 },
 {
@@ -19,7 +19,7 @@ pos = (487,123);
 ref = acutecomb.case;
 }
 );
-width = 537;
+width = 656;
 },
 {
 associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -30,7 +30,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (168,0);
+pos = (165,0);
 ref = circumflexcomb.case;
 },
 {
@@ -40,7 +40,7 @@ pos = (532,43);
 ref = acutecomb.case;
 }
 );
-width = 537;
+width = 656;
 }
 );
 unicode = 7870;
