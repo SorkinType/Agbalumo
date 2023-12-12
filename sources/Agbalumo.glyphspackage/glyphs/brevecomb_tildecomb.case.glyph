@@ -9,7 +9,7 @@ shapes = (
 ref = brevecomb.case;
 },
 {
-pos = (-13,177);
+pos = (12,177);
 ref = tildecomb.case;
 }
 );

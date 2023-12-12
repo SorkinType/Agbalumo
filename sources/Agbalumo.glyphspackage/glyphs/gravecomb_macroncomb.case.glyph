@@ -5,23 +5,23 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (181,710);
+pos = (230,710);
 },
 {
 name = top;
-pos = (215,1099);
+pos = (264,1099);
 }
 );
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
+pos = (50,0);
 ref = gravecomb.case;
 },
 {
 alignment = -1;
-pos = (-49,185);
+pos = (0,185);
 ref = macroncomb.case;
 }
 );

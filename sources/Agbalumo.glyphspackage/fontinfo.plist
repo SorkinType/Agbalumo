@@ -2643,131 +2643,7 @@ Location = 400;
 );
 guides = (
 {
-angle = 180;
-pos = (412,403);
-},
-{
-pos = (465,-9);
-},
-{
-pos = (180,507);
-},
-{
-angle = 180;
-pos = (150,529);
-},
-{
-angle = 180;
-pos = (35,191);
-},
-{
-pos = (285,-192);
-},
-{
-pos = (321,278);
-},
-{
-name = inferior_overshoot_height;
-pos = (230,884);
-},
-{
-pos = (500,726);
-},
-{
-pos = (185,701);
-},
-{
-angle = 180;
-pos = (723,504);
-},
-{
-pos = (47,15);
-},
-{
-angle = 180;
-name = inferior_overshoot_bottom;
-pos = (134,-187);
-},
-{
-name = superior_height;
-pos = (219,933);
-},
-{
-name = superior_base;
-pos = (108,403);
-},
-{
-pos = (-72,-273);
-},
-{
-pos = (421,-139);
-},
-{
-pos = (474,516);
-},
-{
-angle = 90;
-pos = (432,-4);
-},
-{
-angle = 180;
-pos = (358,112);
-},
-{
-pos = (432,-4);
-},
-{
-pos = (346,710);
-},
-{
-name = superior_height;
-pos = (144,842);
-},
-{
-pos = (-329,535);
-},
-{
-angle = 90;
-pos = (772,460);
-},
-{
-angle = 180;
-name = superior_height;
-pos = (20,432);
-},
-{
-name = superior_height;
-pos = (488,813);
-},
-{
-pos = (210,580);
-},
-{
-angle = 264.0578;
-pos = (519,333);
-},
-{
-angle = 180;
-pos = (432,403);
-},
-{
-angle = 180;
-pos = (163,625);
-},
-{
-angle = 180;
-name = inferior_overshoot_bottom;
-pos = (336,-198);
-},
-{
-pos = (-685,142);
-},
-{
-pos = (847,-17);
-},
-{
-name = inferior_overshoot_height;
-pos = (169,854);
+pos = (-41,-206);
 }
 );
 id = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -2986,7 +2862,7 @@ Edotbelow.ss01 = -23;
 Egrave.ss01 = -23;
 Emacron.ss01 = -23;
 Emacronacute.ss01 = -23;
-Eng = -19;
+Eng.loclNSM = -19;
 Eth = -40;
 Etilde.ss01 = -23;
 F = -38;
@@ -3356,7 +3232,7 @@ Eacute = 23;
 Eacute.ss01 = 11;
 Edieresis = 23;
 Edieresis.ss01 = 11;
-Eng = 23;
+Eng.loclNSM = 23;
 F = 4;
 G = 11;
 Gdotaccent = 11;
@@ -3452,7 +3328,7 @@ Eacute = 23;
 Eacute.ss01 = 11;
 Edieresis = 23;
 Edieresis.ss01 = 11;
-Eng = 23;
+Eng.loclNSM = 23;
 F = 4;
 G = 11;
 Gdotaccent = 11;
@@ -3550,7 +3426,7 @@ Eacute.ss01 = -23;
 Ecircumflex.ss01 = -23;
 Edotbelow.ss01 = -23;
 Egrave.ss01 = -23;
-Eng = -19;
+Eng.loclNSM = -19;
 Eth = -40;
 F = -38;
 G = -34;
@@ -3922,7 +3798,7 @@ C = -29;
 D = -32;
 Ddotbelow = -32;
 Ecaron.ss01 = -23;
-Eng = -19;
+Eng.loclNSM = -19;
 F = -38;
 G = -34;
 H = -19;
@@ -4277,7 +4153,7 @@ Eacute.ss01 = -23;
 Ecircumflex.ss01 = -23;
 Edieresis.ss01 = -23;
 Egrave.ss01 = -23;
-Eng = -19;
+Eng.loclNSM = -19;
 Eth = -40;
 F = -38;
 G = -34;
@@ -4513,7 +4389,7 @@ Eacute.ss01 = -23;
 Edieresis.ss01 = -23;
 Edotbelow.ss01 = -23;
 Egrave.ss01 = -23;
-Eng = -19;
+Eng.loclNSM = -19;
 Eth = -40;
 F = -38;
 G = -34;
@@ -4696,7 +4572,7 @@ Ecircumflex.ss01 = -23;
 Edieresis.ss01 = -23;
 Egrave.ss01 = -23;
 Emacron.ss01 = -23;
-Eng = -19;
+Eng.loclNSM = -19;
 Eth = -40;
 F = -38;
 G = -34;
@@ -4847,7 +4723,7 @@ Cacute = -29;
 Ccaron = -29;
 D = -32;
 E.ss01 = -23;
-Eng = -19;
+Eng.loclNSM = -19;
 F = -38;
 G = -34;
 H = -19;
@@ -5037,7 +4913,7 @@ Ccaron = -29;
 D = -32;
 E.ss01 = -23;
 Eacute.ss01 = -23;
-Eng = -19;
+Eng.loclNSM = -19;
 Etilde.ss01 = -23;
 F = -38;
 Fhook = 4;
@@ -7380,7 +7256,7 @@ Edotaccent = 9;
 Edotbelow = 9;
 Egrave = 9;
 Emacron = 9;
-Eng = 8;
+Eng.loclNSM = 8;
 Eogonek = 9;
 Eopen = 8;
 Eth = -14;
@@ -7958,7 +7834,7 @@ Ecircumflex = 9;
 Edieresis = 9;
 Edotbelow = 9;
 Egrave = 9;
-Eng = 8;
+Eng.loclNSM = 8;
 Eth = -14;
 Etilde = 9;
 G = -3;
@@ -8910,7 +8786,7 @@ E = 9;
 Eacute = 9;
 Ecircumflex = 9;
 Edieresis = 9;
-Eng = 8;
+Eng.loclNSM = 8;
 G = -3;
 H = 6;
 I = 7;
@@ -10043,7 +9919,7 @@ threesuperior = -6;
 twosuperior = -12;
 zerosuperior = -9;
 };
-Eng = {
+Eng.loclNSM = {
 A = -7;
 Aacute = -7;
 Adieresis = -7;
@@ -10058,7 +9934,7 @@ Eacute = 17;
 Eacute.ss01 = 3;
 Edieresis = 17;
 Edieresis.ss01 = 4;
-Eng = 28;
+Eng.loclNSM = 28;
 F = 8;
 G = 3;
 H = 21;
@@ -10121,7 +9997,7 @@ C = -2;
 Cacute = -2;
 Ccaron = -2;
 Edotaccent = 9;
-Eng = 8;
+Eng.loclNSM = 8;
 Eogonek = 9;
 G = -3;
 H = 6;
@@ -10457,7 +10333,7 @@ C = -2;
 Ccaron = -2;
 E = 9;
 Ecircumflex = 9;
-Eng = 8;
+Eng.loclNSM = 8;
 Etilde = 10;
 G = -3;
 H = 6;
@@ -12522,7 +12398,7 @@ Aogonek = -19;
 Aring = -19;
 Atilde = -19;
 D = 0;
-Eng = 10;
+Eng.loclNSM = 10;
 Eopen = 3;
 Ereversed = 3;
 Ezh = 2;
@@ -12895,7 +12771,7 @@ Egrave = -2;
 Egrave.ss01 = -17;
 Emacron = -2;
 Emacron.ss01 = -17;
-Eng = 11;
+Eng.loclNSM = 11;
 Eogonek = -2;
 Eogonek.ss01 = -17;
 Eth = -14;
@@ -13166,7 +13042,7 @@ Agrave = -13;
 Dcaron = 2;
 Edieresis = 5;
 Emacron = 11;
-Eng = 12;
+Eng.loclNSM = 12;
 H = 6;
 Hdotbelow = 6;
 I = 4;
@@ -13282,7 +13158,7 @@ zerosuperior = 32;
 };
 Icaron = {
 Abreve = -4;
-Eng = 12;
+Eng.loclNSM = 12;
 H = 6;
 J = 25;
 K = 5;
@@ -13321,7 +13197,7 @@ D = 3;
 Dmacronbelow = 3;
 Ecircumflex = 31;
 Emacron = 33;
-Eng = 20;
+Eng.loclNSM = 20;
 F = 5;
 H = 9;
 Hbrevebelow = 9;
@@ -13445,7 +13321,7 @@ Ecircumflex = 30;
 Edieresis = 34;
 Egrave = 6;
 Emacron = 34;
-Eng = 16;
+Eng.loclNSM = 16;
 F = 3;
 H = 8;
 I = 7;
@@ -13668,7 +13544,7 @@ A = -19;
 Aacute = -19;
 Adieresis = -18;
 Agrave = -19;
-Eng = 11;
+Eng.loclNSM = 11;
 H = 6;
 I = 4;
 I_J.loclNLD = 4;
@@ -13799,7 +13675,7 @@ D = 3;
 Dmacronbelow = 3;
 Emacron = 41;
 Emacron.ss01 = 6;
-Eng = 15;
+Eng.loclNSM = 15;
 H = 8;
 Hbrevebelow = 8;
 Hdotbelow = 8;
@@ -14050,7 +13926,7 @@ Itilde = {
 A = -17;
 Aacute = -17;
 D = 3;
-Eng = 15;
+Eng.loclNSM = 15;
 H = 8;
 I = 5;
 I_J.loclNLD = 5;
@@ -14153,7 +14029,7 @@ Egrave = -2;
 Egrave.ss01 = -17;
 Emacron = -2;
 Emacron.ss01 = -17;
-Eng = 11;
+Eng.loclNSM = 11;
 Eogonek = -2;
 Eogonek.ss01 = -17;
 Eth = -14;
@@ -14460,7 +14336,7 @@ Egrave = -2;
 Egrave.ss01 = -17;
 Emacron = -2;
 Emacron.ss01 = -17;
-Eng = 11;
+Eng.loclNSM = 11;
 Eogonek = -2;
 Eogonek.ss01 = -17;
 Eth = -14;
@@ -15469,7 +15345,7 @@ Ehookabove.ss01 = -28;
 Einvertedbreve.ss01 = -28;
 Emacron.ss01 = -28;
 Emacronacute.ss01 = -28;
-Eng = -19;
+Eng.loclNSM = -19;
 Eogonek.ss01 = -28;
 Eth = -51;
 Etilde.ss01 = -28;
@@ -16422,7 +16298,7 @@ Ehookabove.ss01 = -19;
 Einvertedbreve.ss01 = -19;
 Emacron.ss01 = -19;
 Emacronacute.ss01 = -19;
-Eng = 7;
+Eng.loclNSM = 7;
 Eogonek.ss01 = -19;
 Eth = -17;
 Etilde.ss01 = -19;
@@ -16917,7 +16793,7 @@ Ehookabove.ss01 = -3;
 Einvertedbreve.ss01 = -3;
 Emacron.ss01 = -3;
 Emacronacute.ss01 = -3;
-Eng = 9;
+Eng.loclNSM = 9;
 Eogonek.ss01 = -3;
 Eth = -6;
 Etilde.ss01 = -3;
@@ -17797,7 +17673,7 @@ Emacron = 4;
 Emacron.ss01 = 5;
 Emacronacute = 4;
 Emacronacute.ss01 = 5;
-Eng = -5;
+Eng.loclNSM = -5;
 Eogonek = 4;
 Eogonek.ss01 = 5;
 Eopen = 3;
@@ -18168,7 +18044,7 @@ E.ss01 = -3;
 Eacute.ss01 = -3;
 Edieresis.ss01 = -3;
 Egrave.ss01 = -3;
-Eng = 9;
+Eng.loclNSM = 9;
 F = -6;
 G = -6;
 Gbreve = -6;
@@ -18799,7 +18675,7 @@ Edieresis = 5;
 Edieresis.ss01 = 6;
 Egrave = 5;
 Egrave.ss01 = 6;
-Eng = 3;
+Eng.loclNSM = 3;
 F = -5;
 G = 5;
 Gbreve = 5;
@@ -19311,7 +19187,7 @@ Edotbelow = 5;
 Edotbelow.ss01 = 6;
 Egrave = 5;
 Egrave.ss01 = 6;
-Eng = 3;
+Eng.loclNSM = 3;
 F = -5;
 Fhook = -45;
 G = 5;
@@ -19683,7 +19559,7 @@ E = 5;
 E.ss01 = 6;
 Eacute = 5;
 Eacute.ss01 = 6;
-Eng = 3;
+Eng.loclNSM = 3;
 Etilde = 5;
 Etilde.ss01 = 6;
 F = -5;
@@ -20107,7 +19983,7 @@ E = 5;
 E.ss01 = 6;
 Egrave = 5;
 Egrave.ss01 = 6;
-Eng = 3;
+Eng.loclNSM = 3;
 Etilde = 5;
 Etilde.ss01 = 6;
 F = -5;
@@ -21205,7 +21081,7 @@ Ehookabove.ss01 = -10;
 Einvertedbreve.ss01 = -10;
 Emacron.ss01 = -10;
 Emacronacute.ss01 = -10;
-Eng = -3;
+Eng.loclNSM = -3;
 Eogonek.ss01 = -10;
 Eth = -24;
 Etilde.ss01 = -10;
@@ -22026,7 +21902,7 @@ Egrave = 11;
 Ehookabove = 10;
 Einvertedbreve = 11;
 Emacron = 11;
-Eng = 5;
+Eng.loclNSM = 5;
 Eogonek = 11;
 Eopen = 9;
 Ereversed = 15;
@@ -22731,7 +22607,7 @@ zerosuperior = -25;
 Schwa = {
 A = -29;
 C = 3;
-Eng = 5;
+Eng.loclNSM = 5;
 F = -5;
 G = 4;
 Gbreve = 4;
@@ -24192,7 +24068,7 @@ Edotbelow = 16;
 Egrave = 16;
 Ehookabove = 16;
 Emacron = 16;
-Eng = 8;
+Eng.loclNSM = 8;
 Eogonek = 16;
 Eopen = 16;
 Ereversed = 15;
@@ -24502,7 +24378,7 @@ Ecaron = 16;
 Edotbelow = 16;
 Egrave = 16;
 Emacron = 16;
-Eng = 8;
+Eng.loclNSM = 8;
 Eth = -5;
 G = -3;
 H = 5;
@@ -24710,7 +24586,7 @@ z = -13;
 zerosuperior = -10;
 };
 Ucaron = {
-Eng = 8;
+Eng.loclNSM = 8;
 G = -3;
 H = 5;
 I = 21;
@@ -24875,7 +24751,7 @@ Eacute = 16;
 Ecircumflex = 16;
 Edieresis = 16;
 Egrave = 16;
-Eng = 8;
+Eng.loclNSM = 8;
 Eogonek = 16;
 Ereversed = 15;
 G = -3;
@@ -25624,7 +25500,7 @@ zerosuperior = -10;
 Umacron = {
 E = 16;
 Emacron = 16;
-Eng = 8;
+Eng.loclNSM = 8;
 Eth = -5;
 G = -3;
 Gcommaaccent = -3;
@@ -26415,7 +26291,7 @@ Egrave = 12;
 Egrave.ss01 = 8;
 Emacron = 12;
 Emacron.ss01 = 8;
-Eng = 19;
+Eng.loclNSM = 19;
 Eogonek = 12;
 Eogonek.ss01 = 8;
 Eopen = 14;
@@ -33560,7 +33436,7 @@ Ehookabove = -104;
 Ehookabove.ss01 = -115;
 Emacron = -94;
 Emacron.ss01 = -115;
-Eng = -80;
+Eng.loclNSM = -80;
 Eogonek = -99;
 Eogonek.ss01 = -115;
 Ereversed = -98;
@@ -44021,7 +43897,7 @@ Emacron = -32;
 Emacron.ss01 = -26;
 Emacronacute = -32;
 Emacronacute.ss01 = -26;
-Eng = -49;
+Eng.loclNSM = -49;
 Eogonek = -32;
 Eogonek.ss01 = -26;
 Eopen = -32;
@@ -53714,7 +53590,7 @@ Einvertedbreve = -2;
 Einvertedbreve.ss01 = -33;
 Emacron.ss01 = -33;
 Emacronacute.ss01 = -33;
-Eng = 31;
+Eng.loclNSM = 31;
 Eogonek = -7;
 Eogonek.ss01 = -33;
 Eopen = -2;
@@ -55544,7 +55420,7 @@ Ehookabove = -45;
 Ehookabove.ss01 = -55;
 Emacron = -45;
 Emacron.ss01 = -55;
-Eng = -22;
+Eng.loclNSM = -22;
 Eogonek = -45;
 Eogonek.ss01 = -55;
 Eopen = -42;
@@ -56379,7 +56255,7 @@ Ehookabove = -63;
 Ehookabove.ss01 = -70;
 Emacron = -62;
 Emacron.ss01 = -70;
-Eng = -47;
+Eng.loclNSM = -47;
 Eogonek = -63;
 Eogonek.ss01 = -70;
 Eopen = -61;
@@ -57897,7 +57773,7 @@ Einvertedbreve = -51;
 Einvertedbreve.ss01 = -59;
 Emacron = -51;
 Emacron.ss01 = -59;
-Eng = -26;
+Eng.loclNSM = -26;
 Eogonek = -51;
 Eogonek.ss01 = -59;
 Ereversed = -49;
@@ -61502,7 +61378,7 @@ Edotaccent.ss01 = -11;
 Edotbelow.ss01 = -11;
 Egrave.ss01 = -11;
 Emacron.ss01 = -10;
-Eng = 11;
+Eng.loclNSM = 11;
 Eth = -6;
 Etilde.ss01 = -10;
 G = -8;

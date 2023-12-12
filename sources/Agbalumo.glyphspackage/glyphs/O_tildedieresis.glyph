@@ -8,11 +8,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (187,0);
+pos = (212,0);
 ref = tildecomb.case;
 },
 {
-pos = (223,165);
+pos = (202,165);
 ref = dieresiscomb.case;
 }
 );

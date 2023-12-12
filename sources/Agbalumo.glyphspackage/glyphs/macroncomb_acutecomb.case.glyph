@@ -6,23 +6,22 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (197,710);
+pos = (246,710);
 },
 {
 name = top;
-pos = (233,1123);
+pos = (282,1123);
 }
 );
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
 alignment = -1;
-pos = (87,160);
+pos = (136,160);
 ref = acutecomb.case;
 },
 {
 alignment = -1;
-pos = (-49,0);
 ref = macroncomb.case;
 }
 );

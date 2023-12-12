@@ -6,15 +6,15 @@ layers = (
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
-pos = (167,0);
+pos = (135,0);
 ref = acutecomb;
 },
 {
-pos = (32,262);
+pos = (0,262);
 ref = macroncomb;
 }
 );
-width = 431;
+width = 399;
 }
 );
 metricLeft = "=10";

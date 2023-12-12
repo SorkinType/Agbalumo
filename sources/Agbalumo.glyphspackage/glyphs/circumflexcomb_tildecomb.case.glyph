@@ -9,7 +9,7 @@ shapes = (
 ref = circumflexcomb.case;
 },
 {
-pos = (3,177);
+pos = (28,177);
 ref = tildecomb.case;
 }
 );
