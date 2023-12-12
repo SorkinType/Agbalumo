@@ -9,16 +9,16 @@ shapes = (
 ref = E;
 },
 {
-pos = (165,0);
+pos = (145,10);
 ref = circumflexcomb.case;
 },
 {
 anchor = top_hook;
-pos = (416,53);
+pos = (396,63);
 ref = hookabovecomb.case;
 }
 );
-width = 656;
+width = 661;
 }
 );
 unicode = 7874;

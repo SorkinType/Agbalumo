@@ -23,15 +23,15 @@ shapes = (
 ref = E;
 },
 {
-pos = (92,0);
+pos = (204,0);
 ref = cedillacomb.case;
 },
 {
-pos = (199,0);
+pos = (179,10);
 ref = brevecomb.case;
 }
 );
-width = 656;
+width = 661;
 }
 );
 unicode = 7708;
