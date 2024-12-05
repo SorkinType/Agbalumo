@@ -1,0 +1,19 @@
+{
+glyphname = Ezhcaron;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (205,10);
+ref = caroncomb.case;
+}
+);
+width = 557;
+}
+);
+unicode = 494;
+}

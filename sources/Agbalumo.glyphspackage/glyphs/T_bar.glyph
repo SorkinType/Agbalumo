@@ -1,0 +1,19 @@
+{
+glyphname = Tbar;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (57,52);
+ref = hyphen;
+}
+);
+width = 591;
+}
+);
+unicode = 358;
+}
