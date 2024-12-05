@@ -1,0 +1,20 @@
+{
+glyphname = Tdotbelow;
+layers = (
+{
+.lastUpdate = 755114807.757;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (141,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 591;
+}
+);
+unicode = 7788;
+}

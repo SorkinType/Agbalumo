@@ -1,0 +1,20 @@
+{
+glyphname = vdotbelow;
+layers = (
+{
+.lastUpdate = 755114535.603;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = v;
+},
+{
+pos = (179,0);
+ref = dotbelowcomb;
+}
+);
+width = 555;
+}
+);
+unicode = 7807;
+}

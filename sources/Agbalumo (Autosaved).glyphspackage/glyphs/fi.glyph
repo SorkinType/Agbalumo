@@ -1,0 +1,29 @@
+{
+glyphname = fi;
+lastChange = "2024-12-05 18:00:12 +0000";
+layers = (
+{
+.lastUpdate = 755114398.819;
+anchors = (
+{
+name = caret_1;
+pos = (358.5,0);
+}
+);
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (392,0);
+ref = i;
+}
+);
+width = 717;
+}
+);
+metricLeft = f;
+metricRight = i;
+unicode = 64257;
+}

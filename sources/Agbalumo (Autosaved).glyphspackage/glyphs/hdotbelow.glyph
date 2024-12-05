@@ -1,0 +1,20 @@
+{
+glyphname = hdotbelow;
+layers = (
+{
+.lastUpdate = 755114807.765;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (190,0);
+ref = dotbelowcomb;
+}
+);
+width = 576;
+}
+);
+unicode = 7717;
+}

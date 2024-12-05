@@ -1,0 +1,21 @@
+{
+glyphname = tdieresis;
+lastChange = "2024-12-05 17:58:23 +0000";
+layers = (
+{
+.lastUpdate = 755114535.516;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (58,174);
+ref = dieresiscomb;
+}
+);
+width = 353;
+}
+);
+unicode = 7831;
+}

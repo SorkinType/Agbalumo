@@ -1,0 +1,20 @@
+{
+glyphname = Hdotaccent;
+layers = (
+{
+.lastUpdate = 755114807.766;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (278,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 654;
+}
+);
+unicode = 7714;
+}

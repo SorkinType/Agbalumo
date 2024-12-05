@@ -1,0 +1,20 @@
+{
+glyphname = yacute;
+layers = (
+{
+.lastUpdate = 755114392.721;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (189,0);
+ref = acutecomb;
+}
+);
+width = 524;
+}
+);
+unicode = 253;
+}

@@ -1,0 +1,26 @@
+{
+color = 11;
+glyphname = Ecircumflexhookabove;
+layers = (
+{
+.lastUpdate = 755114807.766;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (145,10);
+ref = circumflexcomb.case;
+},
+{
+anchor = top_hook;
+pos = (396,63);
+ref = hookabovecomb.case;
+}
+);
+width = 661;
+}
+);
+unicode = 7874;
+}

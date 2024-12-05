@@ -1,0 +1,57 @@
+{
+color = 11;
+glyphname = ohorntilde;
+layers = (
+{
+.lastUpdate = 755114535.484;
+annotations = (
+{
+pos = (135,945);
+text = "Adjust tilde on this";
+type = Text;
+width = 92;
+}
+);
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (134,0);
+ref = tildecomb.narrow3;
+}
+);
+width = 567;
+},
+{
+.lastUpdate = 755078906.55;
+annotations = (
+{
+pos = (135,945);
+text = "Adjust tilde on this";
+type = Text;
+width = 92;
+}
+);
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "6D82787C-0D13-4FDA-8BE6-788E25D26AB9";
+name = "Oct 4, 23, 16:11";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (134,0);
+ref = tildecomb.narrow3;
+},
+{
+pos = (362,-60);
+ref = horncomb;
+}
+);
+width = 567;
+}
+);
+unicode = 7905;
+}

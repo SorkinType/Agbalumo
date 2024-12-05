@@ -1,0 +1,19 @@
+{
+glyphname = M_gravecomb;
+layers = (
+{
+.lastUpdate = 755114807.754;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = M;
+},
+{
+pos = (390,-20);
+ref = gravecomb.case;
+}
+);
+width = 996;
+}
+);
+}

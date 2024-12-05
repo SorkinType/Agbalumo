@@ -1,0 +1,17 @@
+{
+glyphname = primemod;
+lastChange = "2024-12-05 18:03:50 +0000";
+layers = (
+{
+.lastUpdate = 755114734.677;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = quotesingle;
+}
+);
+width = 312;
+}
+);
+unicode = 697;
+}

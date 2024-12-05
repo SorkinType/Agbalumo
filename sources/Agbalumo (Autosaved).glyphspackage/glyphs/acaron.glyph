@@ -1,0 +1,21 @@
+{
+color = 10;
+glyphname = acaron;
+layers = (
+{
+.lastUpdate = 755114807.751;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (182,0);
+ref = caroncomb;
+}
+);
+width = 564;
+}
+);
+unicode = 462;
+}

@@ -1,0 +1,73 @@
+{
+glyphname = Dtail;
+layers = (
+{
+.lastUpdate = 755114787.594;
+anchors = (
+{
+name = bottom;
+pos = (342,0);
+},
+{
+name = center;
+pos = (403,355);
+},
+{
+name = top;
+pos = (434,710);
+}
+);
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 716;
+},
+{
+.lastUpdate = 755078906.537;
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "AFFA74AB-2B60-4436-BEC5-11C39034E3E8";
+name = "Sep 26, 23, 17:32";
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 716;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "2686FD92-B141-47E6-9B4C-10FD5FC83C3D";
+name = "Sep 29, 23, 10:18";
+shapes = (
+{
+closed = 1;
+nodes = (
+(6,383,o),
+(17,317,o),
+(89,315,cs),
+(171,313,o),
+(236,308,o),
+(351,312,cs),
+(430,315,o),
+(429,391,o),
+(392,414,c),
+(257,399,o),
+(200,398,o),
+(57,414,c)
+);
+},
+{
+locked = 1;
+pos = (28,0);
+ref = D;
+}
+);
+width = 716;
+}
+);
+metricRight = D;
+unicode = 393;
+}

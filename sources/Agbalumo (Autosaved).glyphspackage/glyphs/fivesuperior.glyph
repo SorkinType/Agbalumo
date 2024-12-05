@@ -1,0 +1,23 @@
+{
+glyphname = fivesuperior;
+layers = (
+{
+.lastUpdate = 755114766.457;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+pos = (0,441);
+ref = five.dnom;
+}
+);
+width = 444;
+}
+);
+unicode = 8309;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

@@ -1,0 +1,25 @@
+{
+glyphname = umacrondieresis;
+lastChange = "2024-12-05 08:23:33 +0000";
+layers = (
+{
+.lastUpdate = 755114535.533;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (147,0);
+ref = macroncomb;
+},
+{
+pos = (181,210);
+ref = dieresiscomb;
+}
+);
+width = 589;
+}
+);
+unicode = 7803;
+}

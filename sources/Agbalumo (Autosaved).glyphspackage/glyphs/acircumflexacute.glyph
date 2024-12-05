@@ -1,0 +1,42 @@
+{
+color = 9;
+glyphname = acircumflexacute;
+layers = (
+{
+.lastUpdate = 755114807.757;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (119,0);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 564;
+},
+{
+.lastUpdate = 755078906.546;
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "FF1DD905-18FA-4CA2-AF7C-467BAC501E34";
+name = "Sep 1, 23, 20:19";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (158,0);
+ref = circumflexcomb;
+},
+{
+anchor = top_viet;
+pos = (480,153);
+ref = acutecomb;
+}
+);
+width = 564;
+}
+);
+unicode = 7845;
+}

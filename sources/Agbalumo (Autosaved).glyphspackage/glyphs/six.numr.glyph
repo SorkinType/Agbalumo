@@ -1,0 +1,17 @@
+{
+glyphname = six.numr;
+layers = (
+{
+.lastUpdate = 755114766.459;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+alignment = -1;
+pos = (8,234);
+ref = six.dnom;
+}
+);
+width = 418;
+}
+);
+}

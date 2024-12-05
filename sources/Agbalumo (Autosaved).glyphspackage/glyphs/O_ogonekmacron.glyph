@@ -1,0 +1,40 @@
+{
+glyphname = Oogonekmacron;
+layers = (
+{
+.lastUpdate = 755114807.748;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = Oogonek;
+},
+{
+pos = (197,0);
+ref = macroncomb.case;
+}
+);
+width = 672;
+},
+{
+.lastUpdate = 755078906.541;
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "15E26199-5D61-43D1-A7C3-8B632C598EAC";
+name = "Oct 9, 23, 13:40";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (203,10);
+ref = ogonekcomb.case;
+},
+{
+pos = (197,0);
+ref = macroncomb.case;
+}
+);
+width = 672;
+}
+);
+unicode = 492;
+}

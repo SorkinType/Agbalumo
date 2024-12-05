@@ -1,0 +1,36 @@
+{
+color = 0;
+glyphname = lowlinecomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (261,0);
+},
+{
+name = bottom;
+pos = (258,-184);
+}
+);
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(488,-184,l),
+(515,-147,o),
+(523,-102,o),
+(510,-65,c),
+(45,-65,l),
+(23,-94,o),
+(15,-139,o),
+(23,-184,c)
+);
+}
+);
+width = 557;
+}
+);
+unicode = 818;
+}

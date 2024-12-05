@@ -1,0 +1,19 @@
+{
+glyphname = N_macroncomb;
+layers = (
+{
+.lastUpdate = 755114807.764;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (179,0);
+ref = macroncomb.case;
+}
+);
+width = 695;
+}
+);
+}

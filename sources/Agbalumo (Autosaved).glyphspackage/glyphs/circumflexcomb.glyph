@@ -1,0 +1,92 @@
+{
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (166,500);
+},
+{
+name = top;
+pos = (202,735);
+},
+{
+name = top_hook;
+pos = (407,620);
+},
+{
+name = top_viet;
+pos = (417,653);
+}
+);
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,588,o),
+(172,642,o),
+(197,642,cs),
+(222,642,o),
+(286,591,o),
+(305,548,c),
+(336,541,o),
+(361,558,o),
+(357,599,cs),
+(350,684,o),
+(294,775,o),
+(213,775,cs),
+(135,775,o),
+(41,688,o),
+(13,594,cs),
+(1,555,o),
+(24,538,o),
+(55,545,c)
+);
+}
+);
+width = 367;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "A1EBA3E6-156A-4F37-A90D-8ABB6F9EB28C";
+name = "Jul 12, 23, 11:56";
+shapes = (
+{
+closed = 1;
+nodes = (
+(64,597,o),
+(134,650,o),
+(159,650,cs),
+(185,650,o),
+(257,600,o),
+(282,568,c),
+(313,561,o),
+(336,578,o),
+(327,619,cs),
+(308,704,o),
+(241,795,o),
+(160,795,cs),
+(82,795,o),
+(8,708,o),
+(-8,614,cs),
+(-15,575,o),
+(10,558,o),
+(40,565,c)
+);
+}
+);
+width = 600;
+}
+);
+metricLeft = "=10";
+metricRight = "=10";
+unicode = 770;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

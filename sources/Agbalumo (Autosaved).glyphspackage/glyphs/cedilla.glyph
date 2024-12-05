@@ -1,0 +1,19 @@
+{
+glyphname = cedilla;
+layers = (
+{
+.lastUpdate = 755114392.729;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+pos = (-5,0);
+ref = cedillacomb;
+}
+);
+width = 204;
+}
+);
+metricLeft = "=5";
+metricRight = "=5";
+unicode = 184;
+}

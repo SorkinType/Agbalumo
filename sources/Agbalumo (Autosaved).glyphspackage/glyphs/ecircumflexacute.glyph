@@ -1,0 +1,21 @@
+{
+color = 11;
+glyphname = ecircumflexacute;
+layers = (
+{
+.lastUpdate = 755114807.756;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (108,0);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 521;
+}
+);
+unicode = 7871;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = jcaron;
+layers = (
+{
+.lastUpdate = 755114807.763;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (50,0);
+ref = caroncomb;
+}
+);
+width = 279;
+}
+);
+unicode = 496;
+}

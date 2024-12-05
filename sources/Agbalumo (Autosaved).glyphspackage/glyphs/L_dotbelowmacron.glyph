@@ -1,0 +1,24 @@
+{
+glyphname = Ldotbelowmacron;
+layers = (
+{
+.lastUpdate = 755114807.767;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (140,0);
+ref = dotbelowcomb.case;
+},
+{
+pos = (116,0);
+ref = macroncomb.case;
+}
+);
+width = 624;
+}
+);
+unicode = 7736;
+}

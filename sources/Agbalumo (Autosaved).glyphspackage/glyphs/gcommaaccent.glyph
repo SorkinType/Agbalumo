@@ -1,0 +1,20 @@
+{
+glyphname = gcommaaccent;
+layers = (
+{
+.lastUpdate = 755114807.759;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (234,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 557;
+}
+);
+unicode = 291;
+}

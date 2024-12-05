@@ -1,0 +1,21 @@
+{
+color = 11;
+glyphname = Ytilde;
+layers = (
+{
+.lastUpdate = 755114807.751;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (204,0);
+ref = tildecomb.case;
+}
+);
+width = 683;
+}
+);
+unicode = 7928;
+}

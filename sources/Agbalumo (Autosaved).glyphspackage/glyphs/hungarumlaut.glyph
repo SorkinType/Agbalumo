@@ -1,0 +1,20 @@
+{
+color = 0;
+glyphname = hungarumlaut;
+layers = (
+{
+.lastUpdate = 755114392.719;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+pos = (-5,0);
+ref = hungarumlautcomb;
+}
+);
+width = 403;
+}
+);
+metricLeft = "=5";
+metricRight = "=5";
+unicode = 733;
+}

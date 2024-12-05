@@ -1,0 +1,24 @@
+{
+glyphname = idieresisacute;
+layers = (
+{
+.lastUpdate = 755114807.751;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (13,0);
+ref = dieresiscomb;
+},
+{
+pos = (114,210);
+ref = acutecomb;
+}
+);
+width = 328;
+}
+);
+unicode = 7727;
+}

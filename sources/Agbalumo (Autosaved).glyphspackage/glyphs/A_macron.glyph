@@ -1,0 +1,20 @@
+{
+glyphname = Amacron;
+layers = (
+{
+.lastUpdate = 755114807.751;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (177,0);
+ref = macroncomb.case;
+}
+);
+width = 670;
+}
+);
+unicode = 256;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = racute;
+layers = (
+{
+.lastUpdate = 755114535.499;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (163,0);
+ref = acutecomb;
+}
+);
+width = 471;
+}
+);
+unicode = 341;
+}

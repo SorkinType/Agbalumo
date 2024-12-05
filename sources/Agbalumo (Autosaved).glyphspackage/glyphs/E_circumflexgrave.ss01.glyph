@@ -1,0 +1,41 @@
+{
+color = 11;
+glyphname = Ecircumflexgrave.ss01;
+layers = (
+{
+.lastUpdate = 755114807.766;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (232,0);
+ref = circumflexcomb.case;
+},
+{
+anchor = top_viet;
+pos = (561,43);
+ref = gravecomb.case;
+}
+);
+width = 623;
+},
+{
+.lastUpdate = 755078906.545;
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "C4EE7617-906C-448E-9C0C-C121E3A0B0DB";
+name = "Oct 3, 23, 09:16";
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (232,0);
+ref = circumflexcomb_gravecomb.case;
+}
+);
+width = 623;
+}
+);
+}

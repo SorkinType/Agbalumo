@@ -1,0 +1,21 @@
+{
+color = 11;
+glyphname = uhorndotbelow;
+layers = (
+{
+.lastUpdate = 755114535.532;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (196,0);
+ref = dotbelowcomb;
+}
+);
+width = 589;
+}
+);
+unicode = 7921;
+}

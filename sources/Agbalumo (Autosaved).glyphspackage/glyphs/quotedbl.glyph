@@ -1,0 +1,44 @@
+{
+glyphname = quotedbl;
+lastChange = "2024-12-05 18:06:48 +0000";
+layers = (
+{
+.lastUpdate = 755114392.726;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (227,0);
+ref = quotesingle;
+}
+);
+width = 529;
+},
+{
+.lastUpdate = 755078906.556;
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "96DCC671-613A-4366-95C9-F84BEE734C56";
+name = "Sep 30, 23, 19:08";
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (227,0);
+ref = quotesingle;
+}
+);
+width = 529;
+}
+);
+unicode = 34;
+userData = {
+KernOnName = quotedbl;
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

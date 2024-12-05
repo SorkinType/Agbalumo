@@ -1,0 +1,20 @@
+{
+glyphname = Etildebelow;
+layers = (
+{
+.lastUpdate = 755114807.756;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (53,0);
+ref = tildebelowcomb.case;
+}
+);
+width = 661;
+}
+);
+unicode = 7706;
+}

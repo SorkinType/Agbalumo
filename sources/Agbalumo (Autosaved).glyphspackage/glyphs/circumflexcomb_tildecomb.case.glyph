@@ -1,0 +1,20 @@
+{
+color = 7;
+glyphname = circumflexcomb_tildecomb.case;
+layers = (
+{
+.lastUpdate = 755114807.75;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = circumflexcomb.case;
+},
+{
+pos = (28,177);
+ref = tildecomb.case;
+}
+);
+width = 368;
+}
+);
+}

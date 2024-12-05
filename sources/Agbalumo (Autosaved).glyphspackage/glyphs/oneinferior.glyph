@@ -1,0 +1,58 @@
+{
+glyphname = oneinferior;
+layers = (
+{
+.lastUpdate = 755114766.457;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+pos = (0,-115);
+ref = one.dnom;
+}
+);
+width = 447;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "023C2689-D7C1-4F0D-BCF8-F2508C5174AE";
+name = "Sep 6, 23, 13:08";
+shapes = (
+{
+closed = 1;
+nodes = (
+(173,-78,o),
+(332,-78,o),
+(344,-54,c),
+(333,72,o),
+(319,256,o),
+(321,357,c),
+(423,435,o),
+(215,539,o),
+(221,386,c),
+(169,358,o),
+(97,331,o),
+(13,325,c),
+(13,250,o),
+(52,206,o),
+(99,206,cs),
+(144,206,o),
+(208,262,o),
+(245,351,c),
+(211,336,l),
+(201,259,o),
+(187,58,o),
+(175,-54,cs)
+);
+}
+);
+width = 447;
+}
+);
+unicode = 8321;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

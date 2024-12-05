@@ -1,0 +1,33 @@
+{
+glyphname = onehalf;
+layers = (
+{
+.lastUpdate = 755114766.459;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+alignment = -1;
+pos = (0,3);
+ref = one.numr;
+},
+{
+pos = (361,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (673,0);
+ref = two.dnom;
+}
+);
+width = 1106;
+}
+);
+metricLeft = one.numr;
+metricRight = one.numr;
+unicode = 189;
+userData = {
+KernOnSpecialSpacing = {
+};
+};
+}

@@ -1,0 +1,20 @@
+{
+glyphname = Macute;
+layers = (
+{
+.lastUpdate = 755114807.764;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = M;
+},
+{
+pos = (473,-20);
+ref = acutecomb.case;
+}
+);
+width = 996;
+}
+);
+unicode = 7742;
+}

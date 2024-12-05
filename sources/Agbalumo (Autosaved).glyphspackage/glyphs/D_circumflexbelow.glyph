@@ -1,0 +1,20 @@
+{
+glyphname = Dcircumflexbelow;
+layers = (
+{
+.lastUpdate = 755114807.758;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (118,0);
+ref = circumflexbelowcomb.case;
+}
+);
+width = 688;
+}
+);
+unicode = 7698;
+}

@@ -1,0 +1,25 @@
+{
+color = 11;
+glyphname = Abrevedotbelow;
+layers = (
+{
+.lastUpdate = 755114807.764;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (194,0);
+ref = dotbelowcomb.case;
+},
+{
+pos = (217,0);
+ref = brevecomb.case;
+}
+);
+width = 670;
+}
+);
+unicode = 7862;
+}

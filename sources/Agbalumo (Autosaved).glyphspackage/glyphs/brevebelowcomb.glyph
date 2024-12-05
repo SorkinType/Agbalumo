@@ -1,0 +1,29 @@
+{
+glyphname = brevebelowcomb;
+layers = (
+{
+.lastUpdate = 755114807.762;
+anchors = (
+{
+name = _bottom;
+pos = (220,0);
+},
+{
+name = bottom;
+pos = (197,-267);
+}
+);
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+pos = (0,-831);
+ref = brevecomb;
+}
+);
+width = 339;
+}
+);
+metricLeft = "=10";
+metricRight = "=10";
+unicode = 814;
+}

@@ -1,0 +1,58 @@
+{
+glyphname = underscore;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(599,-137,l),
+(618,-117,o),
+(627,-98,o),
+(627,-78,cs),
+(627,-69,o),
+(625,-60,o),
+(621,-51,c),
+(-28,-51,l),
+(-44,-68,o),
+(-53,-88,o),
+(-53,-112,cs),
+(-53,-120,o),
+(-52,-128,o),
+(-50,-137,c)
+);
+}
+);
+width = 607;
+},
+{
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "8057A967-1A99-46BA-9125-B2812C198E75";
+name = "Sep 30, 23, 19:08";
+shapes = (
+{
+closed = 1;
+nodes = (
+(599,-137,l),
+(626,-100,o),
+(634,-64,o),
+(621,-27,c),
+(5,-27,l),
+(-17,-56,o),
+(-25,-92,o),
+(-17,-137,c)
+);
+}
+);
+width = 607;
+}
+);
+unicode = 95;
+userData = {
+KernOnSpecialSpacing = {
+L = underscore;
+R = underscore;
+};
+};
+}

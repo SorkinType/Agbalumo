@@ -1,0 +1,41 @@
+{
+color = 11;
+glyphname = Ecircumflexacute.ss01;
+layers = (
+{
+.lastUpdate = 755114807.763;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (232,0);
+ref = circumflexcomb.case;
+},
+{
+anchor = top_acute;
+pos = (596,43);
+ref = acutecomb.case;
+}
+);
+width = 623;
+},
+{
+.lastUpdate = 755078906.544;
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "CE091E5A-4EEE-4D25-8814-0F3F0DF57911";
+name = "Oct 3, 23, 09:16";
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (232,0);
+ref = circumflexcomb_acutecomb.case;
+}
+);
+width = 623;
+}
+);
+}

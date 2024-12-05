@@ -1,0 +1,42 @@
+{
+glyphname = guillemetleft;
+layers = (
+{
+.lastUpdate = 755114392.73;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+pos = (320,0);
+ref = guilsinglleft;
+},
+{
+ref = guilsinglleft;
+}
+);
+width = 791;
+},
+{
+.lastUpdate = 755078906.556;
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "F58C4899-A111-4681-919F-B81CDC4DA554";
+name = "Sep 30, 23, 19:08";
+shapes = (
+{
+pos = (320,0);
+ref = guilsinglleft;
+},
+{
+ref = guilsinglleft;
+}
+);
+width = 791;
+}
+);
+unicode = 171;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

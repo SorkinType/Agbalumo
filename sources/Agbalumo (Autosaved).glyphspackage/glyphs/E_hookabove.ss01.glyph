@@ -1,0 +1,21 @@
+{
+color = 11;
+glyphname = Ehookabove.ss01;
+layers = (
+{
+.lastUpdate = 755114807.765;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = E.ss01;
+},
+{
+anchor = top_viethook;
+pos = (231,0);
+ref = hookabovecomb.case;
+}
+);
+width = 623;
+}
+);
+}

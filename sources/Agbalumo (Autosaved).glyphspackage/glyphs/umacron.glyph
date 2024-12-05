@@ -1,0 +1,20 @@
+{
+glyphname = umacron;
+layers = (
+{
+.lastUpdate = 755114427.073;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (147,0);
+ref = macroncomb;
+}
+);
+width = 589;
+}
+);
+unicode = 363;
+}

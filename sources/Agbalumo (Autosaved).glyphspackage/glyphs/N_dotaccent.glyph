@@ -1,0 +1,20 @@
+{
+glyphname = Ndotaccent;
+layers = (
+{
+.lastUpdate = 755114807.75;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (281,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 695;
+}
+);
+unicode = 7748;
+}

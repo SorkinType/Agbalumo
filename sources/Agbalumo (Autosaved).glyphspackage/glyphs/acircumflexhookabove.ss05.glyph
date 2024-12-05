@@ -1,0 +1,20 @@
+{
+color = 11;
+glyphname = acircumflexhookabove.ss05;
+layers = (
+{
+.lastUpdate = 755114548.881;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (101,0);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 510;
+}
+);
+}

@@ -1,0 +1,20 @@
+{
+glyphname = nmacronbelow;
+layers = (
+{
+.lastUpdate = 755114535.434;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (60,0);
+ref = macronbelowcomb;
+}
+);
+width = 589;
+}
+);
+unicode = 7753;
+}

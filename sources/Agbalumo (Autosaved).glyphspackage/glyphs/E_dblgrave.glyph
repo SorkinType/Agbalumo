@@ -1,0 +1,20 @@
+{
+glyphname = Edblgrave;
+layers = (
+{
+.lastUpdate = 755114807.76;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (102,10);
+ref = dblgravecomb.case;
+}
+);
+width = 661;
+}
+);
+unicode = 516;
+}

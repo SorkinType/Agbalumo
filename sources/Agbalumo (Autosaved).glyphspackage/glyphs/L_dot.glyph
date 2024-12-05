@@ -1,0 +1,57 @@
+{
+glyphname = Ldot;
+layers = (
+{
+.lastUpdate = 755114807.755;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(603,317,o),
+(646,361,o),
+(650,417,cs),
+(652,466,o),
+(619,504,o),
+(572,504,cs),
+(522,504,o),
+(479,459,o),
+(475,404,cs),
+(472,354,o),
+(506,317,o),
+(552,317,cs)
+);
+}
+);
+};
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (254,-80);
+ref = periodcentered.loclCAT.case;
+}
+);
+width = 624;
+},
+{
+.lastUpdate = 755078906.539;
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "5BB1EC99-E046-4160-8970-D69D8468A8B6";
+name = "Sep 14, 23, 14:41";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (344,143);
+ref = periodcentered;
+}
+);
+width = 624;
+}
+);
+unicode = 319;
+}

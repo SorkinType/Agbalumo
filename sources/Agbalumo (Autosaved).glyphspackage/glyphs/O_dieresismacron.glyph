@@ -1,0 +1,24 @@
+{
+glyphname = Odieresismacron;
+layers = (
+{
+.lastUpdate = 755114807.749;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (205,0);
+ref = dieresiscomb.case;
+},
+{
+pos = (215,170);
+ref = macroncomb.case;
+}
+);
+width = 672;
+}
+);
+unicode = 554;
+}

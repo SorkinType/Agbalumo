@@ -1,0 +1,22 @@
+{
+glyphname = macroncomb_acutecomb;
+layers = (
+{
+.lastUpdate = 755114807.753;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (115,200);
+ref = acutecomb;
+}
+);
+width = 399;
+}
+);
+metricLeft = "=10";
+metricRight = "=10";
+}

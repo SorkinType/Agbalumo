@@ -1,0 +1,21 @@
+{
+color = 11;
+glyphname = yhookabove;
+layers = (
+{
+.lastUpdate = 755114535.599;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (118,0);
+ref = hookabovecomb;
+}
+);
+width = 524;
+}
+);
+unicode = 7927;
+}

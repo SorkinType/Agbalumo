@@ -1,0 +1,24 @@
+{
+color = 11;
+glyphname = abrevedotbelow.ss05;
+layers = (
+{
+.lastUpdate = 755114535.68;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (154,0);
+ref = dotbelowcomb;
+},
+{
+pos = (155,0);
+ref = brevecomb;
+}
+);
+width = 510;
+}
+);
+}

@@ -1,0 +1,56 @@
+{
+color = 8;
+glyphname = Ecedilla;
+layers = (
+{
+.lastUpdate = 755114807.756;
+anchors = (
+{
+name = bottom;
+pos = (214,0);
+},
+{
+name = ogonek;
+pos = (397,10);
+},
+{
+name = top;
+pos = (346,710);
+},
+{
+name = topleft;
+pos = (59,710);
+}
+);
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = E;
+},
+{
+alignment = -1;
+pos = (170,52);
+ref = cedillacomb.case;
+}
+);
+width = 661;
+},
+{
+.lastUpdate = 755078906.537;
+associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+layerId = "F6E504B1-3A05-4227-974A-E4D7AE865094";
+name = "Oct 9, 23, 13:45";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (113,0);
+ref = cedillacomb.case;
+}
+);
+width = 661;
+}
+);
+unicode = 552;
+}

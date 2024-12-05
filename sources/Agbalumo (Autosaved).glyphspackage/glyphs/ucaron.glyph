@@ -1,0 +1,20 @@
+{
+glyphname = ucaron;
+layers = (
+{
+.lastUpdate = 755114427.076;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (193,0);
+ref = caroncomb;
+}
+);
+width = 589;
+}
+);
+unicode = 468;
+}

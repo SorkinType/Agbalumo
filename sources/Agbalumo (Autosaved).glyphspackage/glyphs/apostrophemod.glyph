@@ -1,0 +1,17 @@
+{
+color = 3;
+glyphname = apostrophemod;
+layers = (
+{
+.lastUpdate = 755114734.676;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = quoteright;
+}
+);
+width = 318;
+}
+);
+unicode = 700;
+}

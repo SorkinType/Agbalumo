@@ -1,0 +1,21 @@
+{
+color = 11;
+glyphname = abrevehookabove;
+layers = (
+{
+.lastUpdate = 755114807.767;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (136,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 564;
+}
+);
+unicode = 7859;
+}

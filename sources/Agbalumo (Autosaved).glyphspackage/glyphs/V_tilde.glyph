@@ -1,0 +1,20 @@
+{
+glyphname = Vtilde;
+layers = (
+{
+.lastUpdate = 755114807.766;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = V;
+},
+{
+pos = (232,0);
+ref = tildecomb.case;
+}
+);
+width = 678;
+}
+);
+unicode = 7804;
+}

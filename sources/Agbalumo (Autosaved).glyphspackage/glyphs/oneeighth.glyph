@@ -1,0 +1,31 @@
+{
+glyphname = oneeighth;
+layers = (
+{
+.lastUpdate = 755114766.457;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+alignment = -1;
+ref = one.numr;
+},
+{
+pos = (399,0);
+ref = fraction;
+},
+{
+pos = (691,0);
+ref = eight.dnom;
+}
+);
+width = 1123;
+}
+);
+metricLeft = one.numr;
+metricRight = one.numr;
+unicode = 8539;
+userData = {
+KernOnSpecialSpacing = {
+};
+};
+}

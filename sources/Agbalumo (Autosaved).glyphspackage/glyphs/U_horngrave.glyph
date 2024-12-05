@@ -1,0 +1,21 @@
+{
+color = 11;
+glyphname = Uhorngrave;
+layers = (
+{
+.lastUpdate = 755114807.764;
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (260,0);
+ref = gravecomb.case;
+}
+);
+width = 676;
+}
+);
+unicode = 7914;
+}
