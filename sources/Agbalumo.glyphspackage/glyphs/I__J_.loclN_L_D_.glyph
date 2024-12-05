@@ -8,11 +8,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (339,0);
+pos = (315,0);
 ref = J;
 }
 );
-width = 871;
+width = 847;
 },
 {
 associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -23,11 +23,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (339,0);
+pos = (315,0);
 ref = J;
 }
 );
-width = 871;
+width = 847;
 },
 {
 associatedMasterId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
