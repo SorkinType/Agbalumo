@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = caret_1;
-pos = (358.5,0);
+pos = (359,0);
 }
 );
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";

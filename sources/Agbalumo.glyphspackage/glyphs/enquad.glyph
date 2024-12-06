@@ -1,0 +1,11 @@
+{
+glyphname = enquad;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+width = 500;
+}
+);
+metricWidth = "=500";
+unicode = 8192;
+}

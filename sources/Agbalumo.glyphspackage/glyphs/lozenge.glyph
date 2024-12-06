@@ -1,0 +1,36 @@
+{
+glyphname = lozenge;
+kernLeft = lozenge;
+kernRight = lozenge;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(201,108,l),
+(307,108,l),
+(458,360,l),
+(307,612,l),
+(201,612,l),
+(50,360,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(352,360,l),
+(254,196,l),
+(156,360,l),
+(254,524,l)
+);
+}
+);
+width = 508;
+}
+);
+metricLeft = "=50";
+metricRight = "=|";
+unicode = 9674;
+}
