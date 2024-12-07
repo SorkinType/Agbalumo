@@ -544,4 +544,7 @@ width = 577;
 );
 metricRight = n;
 unicode = 104;
+userData = {
+KernOnName = h;
+};
 }

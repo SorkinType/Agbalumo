@@ -1,14 +1,47 @@
 {
 displayStrings = (
-"ƁƊꞪƤƬ
-BDHPT",
-"ȨḜ",
-"BERE
-BƐRƐ",
-"HƝŊJH",
-"Y Ƴ",
-"/circumflexcomb.case Ếễ",
-"̈̇̀/gravecomb_macroncomb ́/acutecomb_macroncomb ̋/caroncomb.alt ̂̌̆̊̃̄/macroncomb_gravecomb/macroncomb_acutecomb ̴̧̨̛̣̤̥̦̩̭̮̯̰̱̲̉̍̏̐̑̒̓᷇͘/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb ᷅᷄᷆/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/gravecomb_macroncomb.case/acutecomb.case/acutecomb_macroncomb.case/hungarumlautcomb.case/circumflexcomb.case/circumflexcomb_gravecomb.case/circumflexcomb_acutecomb.case/circumflexcomb_tildecomb.case/circumflexcomb_hookabovecomb.case/caroncomb.case/brevecomb.case/brevecomb_gravecomb.case/brevecomb_acutecomb.case/tildecomb.case/brevecomb_tildecomb.case/brevecomb_hookabovecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/macroncomb_gravecomb.case/macroncomb_acutecomb.case/hookabovecomb.case/dblgravecomb.case/breveinvertedcomb.case/horncomb.case/dotbelowcomb.case/dieresisbelowcomb.case/ringbelowcomb.case/commaaccentcomb.case/cedillacomb.case/ogonekcomb.case/circumflexbelowcomb.case/brevebelowcomb.case/breveinvertedbelowcomb.case/tildebelowcomb.case/macronbelowcomb.case",
-"aɑ"
+"/commaaccentcomb.case/Lcommaaccent.loclMAH",
+"/Ncommaaccent.loclMAH",
+M,
+"Ǥ",
+"oʽo",
+"’ʼʽ",
+"tẗ",
+"ƷǮǯ",
+"ﬁ",
+"Ŧŧ",
+"ɨ",
+"ŧ",
+"'ʹ",
+"oˈo",
+"̵",
+"
+nioid TEHMEDIV 
+ሽንnitsid 
+ሽንnixyid 
+ሽንTEHAADIV 
+ሽንTEHALDIV 
+ሽንnirrid 
+ሽንKoider 
+ሽንDyider 
+ሽንnixid 
+ተኛnirxid 
+ሜሪnittid 
+ተኛnirxid 
+ሪታTEHAWDIV 
+ሪታTEHAWDIV 
+TEHFODIV 
+TEHRIDIV 
+TEHIODIV 
+nijsid 
+niglid nijsid 
+niglid nijsid 
+Huider 
+niepid 
+ካለniepid 
+ካለniepid 
+nidid niepid 
+ካለniepid ",
+"/space_eth"
 );
 }

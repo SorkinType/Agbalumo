@@ -2,6 +2,16 @@
 glyphname = Ezh;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (192,12);
+},
+{
+name = top;
+pos = (346,720);
+}
+);
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
