@@ -1,4 +1,6 @@
 sources:
   - Agbalumo.glyphspackage
+
 familyName: Agbalumo
-autohintOTF: false
+
+buildOTF: false
