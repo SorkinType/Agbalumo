@@ -13,11 +13,11 @@ pos = (447,10);
 },
 {
 name = top;
-pos = (410,710);
+pos = (410,720);
 },
 {
 name = top_viethook;
-pos = (390,710);
+pos = (390,720);
 },
 {
 name = topleft;

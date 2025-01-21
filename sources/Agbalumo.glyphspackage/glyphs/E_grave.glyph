@@ -8,7 +8,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (180,10);
+pos = (229,-12);
 ref = gravecomb.case;
 }
 );

@@ -8,7 +8,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (106,10);
+pos = (155,10);
 ref = breveinvertedcomb.case;
 }
 );

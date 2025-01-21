@@ -8,7 +8,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (125,0);
+pos = (135,0);
 ref = macroncomb_gravecomb;
 }
 );

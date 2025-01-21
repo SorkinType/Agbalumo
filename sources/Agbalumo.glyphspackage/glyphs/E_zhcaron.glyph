@@ -8,7 +8,7 @@ shapes = (
 ref = Ezh;
 },
 {
-pos = (205,10);
+pos = (235,0);
 ref = caroncomb.case;
 }
 );

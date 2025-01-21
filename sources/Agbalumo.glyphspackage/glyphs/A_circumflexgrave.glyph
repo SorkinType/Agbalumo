@@ -9,7 +9,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (183,0);
+pos = (183,10);
 ref = circumflexcomb.case;
 },
 {
@@ -30,12 +30,12 @@ shapes = (
 ref = A;
 },
 {
-pos = (183,0);
+pos = (183,10);
 ref = circumflexcomb.case;
 },
 {
 anchor = top_viet;
-pos = (512,43);
+pos = (512,31);
 ref = gravecomb.case;
 }
 );

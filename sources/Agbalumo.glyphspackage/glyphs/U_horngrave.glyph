@@ -9,7 +9,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (260,0);
+pos = (260,-22);
 ref = gravecomb.case;
 }
 );

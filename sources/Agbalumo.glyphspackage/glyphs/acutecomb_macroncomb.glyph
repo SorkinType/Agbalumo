@@ -10,7 +10,7 @@ pos = (135,0);
 ref = acutecomb;
 },
 {
-pos = (0,262);
+pos = (189,276);
 ref = macroncomb;
 }
 );

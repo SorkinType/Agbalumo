@@ -1,5 +1,5 @@
 {
-glyphname = Ddotaccent;
+glyphname = Dshortstrokeoverlay;
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
@@ -8,12 +8,12 @@ shapes = (
 ref = D;
 },
 {
-pos = (318,-10);
-ref = dotaccentcomb.case;
+pos = (26,84);
+ref = endash;
 }
 );
 width = 688;
 }
 );
-unicode = 7690;
+unicode = 42951;
 }

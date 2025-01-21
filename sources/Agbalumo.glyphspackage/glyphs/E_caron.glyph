@@ -8,7 +8,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (182,10);
+pos = (261,0);
 ref = caroncomb.case;
 }
 );

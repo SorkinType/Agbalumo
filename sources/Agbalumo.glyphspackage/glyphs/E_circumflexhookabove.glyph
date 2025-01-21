@@ -9,12 +9,12 @@ shapes = (
 ref = E;
 },
 {
-pos = (145,10);
+pos = (194,10);
 ref = circumflexcomb.case;
 },
 {
 anchor = top_hook;
-pos = (396,63);
+pos = (445,63);
 ref = hookabovecomb.case;
 }
 );

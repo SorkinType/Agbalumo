@@ -43,7 +43,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (113,0);
+pos = (133,0);
 ref = cedillacomb.case;
 }
 );

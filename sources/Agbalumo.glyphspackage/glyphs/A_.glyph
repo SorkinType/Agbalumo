@@ -517,7 +517,7 @@ width = 664;
 anchors = (
 {
 name = bottom;
-pos = (319,0);
+pos = (279,0);
 },
 {
 name = ogonek;
@@ -525,7 +525,7 @@ pos = (658,10);
 },
 {
 name = top;
-pos = (361,710);
+pos = (361,720);
 }
 );
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
