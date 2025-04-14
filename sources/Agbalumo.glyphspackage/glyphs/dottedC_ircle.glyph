@@ -9,8 +9,20 @@ name = bottom;
 pos = (443,0);
 },
 {
+name = center;
+pos = (442,470);
+},
+{
+name = ogonek;
+pos = (602,0);
+},
+{
 name = top;
 pos = (433,720);
+},
+{
+name = topright;
+pos = (790,719);
 }
 );
 background = {
