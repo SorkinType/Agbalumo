@@ -2,6 +2,16 @@
 glyphname = Schwa;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (247,0);
+},
+{
+name = top;
+pos = (397,720);
+}
+);
 background = {
 shapes = (
 {

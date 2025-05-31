@@ -1,5 +1,4 @@
 {
-color = 8;
 glyphname = Ecedillabreve;
 layers = (
 {
@@ -29,11 +28,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (113,0);
+pos = (150,50);
 ref = cedillacomb.case;
 },
 {
-pos = (179,10);
+pos = (228,10);
 ref = brevecomb.case;
 }
 );

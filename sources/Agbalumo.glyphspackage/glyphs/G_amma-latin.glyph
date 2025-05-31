@@ -1,5 +1,4 @@
 {
-color = 0;
 glyphname = "Gamma-latin";
 layers = (
 {
@@ -142,6 +141,16 @@ nodes = (
 width = 600;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (199,-148);
+},
+{
+name = top;
+pos = (406,720);
+}
+);
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 name = Regular;
 shapes = (

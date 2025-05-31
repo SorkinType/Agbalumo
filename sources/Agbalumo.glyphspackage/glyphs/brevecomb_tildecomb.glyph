@@ -1,12 +1,11 @@
 {
-color = 3;
 glyphname = brevecomb_tildecomb;
 layers = (
 {
 anchors = (
 {
 name = _top;
-pos = (188,500);
+pos = (178,500);
 },
 {
 name = top;

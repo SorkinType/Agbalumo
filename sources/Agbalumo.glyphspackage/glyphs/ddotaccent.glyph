@@ -8,7 +8,7 @@ shapes = (
 ref = d;
 },
 {
-pos = (426,-20);
+pos = (417,-20);
 ref = dotaccentcomb.case;
 }
 );

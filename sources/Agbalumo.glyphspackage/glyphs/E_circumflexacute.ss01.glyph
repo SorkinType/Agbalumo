@@ -1,5 +1,4 @@
 {
-color = 11;
 glyphname = Ecircumflexacute.ss01;
 layers = (
 {
@@ -14,7 +13,7 @@ ref = circumflexcomb.case;
 },
 {
 anchor = top_acute;
-pos = (596,53);
+pos = (576,93);
 ref = acutecomb.case;
 }
 );
@@ -29,7 +28,7 @@ shapes = (
 ref = E.ss01;
 },
 {
-pos = (232,0);
+pos = (232,10);
 ref = circumflexcomb_acutecomb.case;
 }
 );

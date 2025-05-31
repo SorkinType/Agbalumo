@@ -1,5 +1,4 @@
 {
-color = 11;
 glyphname = Uhorngrave;
 layers = (
 {
@@ -9,7 +8,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (260,-22);
+pos = (263,-22);
 ref = gravecomb.case;
 }
 );

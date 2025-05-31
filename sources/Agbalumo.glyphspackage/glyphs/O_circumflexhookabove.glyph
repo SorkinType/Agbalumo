@@ -1,5 +1,4 @@
 {
-color = 11;
 glyphname = Ocircumflexhookabove;
 layers = (
 {
@@ -14,7 +13,7 @@ ref = circumflexcomb.case;
 },
 {
 anchor = top_hook;
-pos = (454,53);
+pos = (434,93);
 ref = hookabovecomb.case;
 }
 );

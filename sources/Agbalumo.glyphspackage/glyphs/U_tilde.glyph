@@ -1,5 +1,4 @@
 {
-color = 11;
 glyphname = Utilde;
 layers = (
 {
@@ -9,7 +8,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (209,0);
+pos = (216,0);
 ref = tildecomb.case;
 }
 );

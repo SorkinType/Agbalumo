@@ -1,5 +1,4 @@
 {
-color = 11;
 glyphname = uhornacute;
 layers = (
 {
@@ -9,7 +8,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (240,0);
+pos = (273,0);
 ref = acutecomb;
 }
 );

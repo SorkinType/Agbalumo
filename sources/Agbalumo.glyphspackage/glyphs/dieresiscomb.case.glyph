@@ -1,5 +1,4 @@
 {
-color = 8;
 glyphname = dieresiscomb.case;
 layers = (
 {
@@ -10,7 +9,7 @@ pos = (166,720);
 },
 {
 name = top;
-pos = (194,894);
+pos = (174,894);
 }
 );
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";

@@ -1,5 +1,4 @@
 {
-color = 11;
 glyphname = Ecircumflexdotbelow;
 layers = (
 {
@@ -9,7 +8,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (127,0);
+pos = (144,50);
 ref = dotbelowcomb.case;
 },
 {

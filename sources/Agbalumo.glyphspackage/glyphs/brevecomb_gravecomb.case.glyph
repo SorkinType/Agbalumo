@@ -1,5 +1,4 @@
 {
-color = 7;
 glyphname = brevecomb_gravecomb.case;
 layers = (
 {
@@ -9,7 +8,7 @@ shapes = (
 ref = brevecomb.case;
 },
 {
-pos = (38,155);
+pos = (41,155);
 ref = gravecomb.case;
 }
 );

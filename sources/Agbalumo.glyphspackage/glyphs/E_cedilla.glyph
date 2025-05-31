@@ -1,5 +1,4 @@
 {
-color = 8;
 glyphname = Ecedilla;
 layers = (
 {
@@ -43,7 +42,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (133,0);
+pos = (150,50);
 ref = cedillacomb.case;
 }
 );

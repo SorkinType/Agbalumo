@@ -1,5 +1,4 @@
 {
-color = 11;
 glyphname = Ocircumflexgrave;
 layers = (
 {
@@ -13,9 +12,8 @@ pos = (203,0);
 ref = circumflexcomb.case;
 },
 {
-alignment = -1;
 anchor = top_viet;
-pos = (452,123);
+pos = (515,61);
 ref = gravecomb.case;
 }
 );

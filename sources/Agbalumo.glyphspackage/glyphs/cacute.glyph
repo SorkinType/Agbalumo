@@ -8,7 +8,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (212,9);
+pos = (245,9);
 ref = acutecomb;
 }
 );

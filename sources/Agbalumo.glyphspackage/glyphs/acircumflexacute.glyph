@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = acircumflexacute;
 layers = (
 {
@@ -29,7 +28,7 @@ ref = circumflexcomb;
 },
 {
 anchor = top_viet;
-pos = (480,153);
+pos = (513,153);
 ref = acutecomb;
 }
 );

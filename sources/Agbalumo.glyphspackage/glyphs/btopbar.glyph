@@ -1,0 +1,19 @@
+{
+glyphname = btopbar;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = b;
+},
+{
+pos = (71,341);
+ref = hyphen;
+}
+);
+width = 529;
+}
+);
+unicode = 387;
+}

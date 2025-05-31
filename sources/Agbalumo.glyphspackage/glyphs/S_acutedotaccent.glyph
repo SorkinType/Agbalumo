@@ -1,0 +1,24 @@
+{
+color = 4;
+glyphname = Sacutedotaccent;
+layers = (
+{
+layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (247,0);
+ref = acutecomb.case;
+},
+{
+pos = (300,223);
+ref = dotaccentcomb.case;
+}
+);
+width = 543;
+}
+);
+unicode = 7780;
+}

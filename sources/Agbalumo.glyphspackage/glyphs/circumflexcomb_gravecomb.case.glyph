@@ -1,5 +1,4 @@
 {
-color = 7;
 glyphname = circumflexcomb_gravecomb.case;
 layers = (
 {
@@ -9,7 +8,7 @@ shapes = (
 ref = circumflexcomb.case;
 },
 {
-pos = (54,155);
+pos = (57,155);
 ref = gravecomb.case;
 }
 );

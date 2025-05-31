@@ -1,5 +1,4 @@
 {
-color = 8;
 glyphname = circumflexcomb.case;
 layers = (
 {
@@ -14,15 +13,15 @@ pos = (197,887);
 },
 {
 name = top_acute;
-pos = (424,753);
+pos = (404,793);
 },
 {
 name = top_hook;
-pos = (410,763);
+pos = (390,803);
 },
 {
 name = top_viet;
-pos = (472,753);
+pos = (452,793);
 }
 );
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";

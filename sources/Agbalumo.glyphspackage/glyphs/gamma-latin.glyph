@@ -1,8 +1,17 @@
 {
-color = 11;
 glyphname = "gamma-latin";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (191,-170);
+},
+{
+name = top;
+pos = (316,500);
+}
+);
 background = {
 shapes = (
 {
