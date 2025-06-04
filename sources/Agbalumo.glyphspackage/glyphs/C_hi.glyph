@@ -1,17 +1,15 @@
 {
-glyphname = chi;
+glyphname = Chi;
 layers = (
 {
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {
-alignment = -1;
-pos = (0,-204);
 ref = X;
 }
 );
 width = 659;
 }
 );
-unicode = 967;
+unicode = 935;
 }
