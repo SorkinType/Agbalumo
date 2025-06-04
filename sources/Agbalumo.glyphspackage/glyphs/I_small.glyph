@@ -2,6 +2,12 @@
 glyphname = Ismall;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (221,498);
+}
+);
 guides = (
 {
 angle = 265.0371;
