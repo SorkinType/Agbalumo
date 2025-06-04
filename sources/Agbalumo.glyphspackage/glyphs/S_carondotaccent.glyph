@@ -13,7 +13,7 @@ pos = (196,-10);
 ref = caroncomb.case;
 },
 {
-pos = (289,189);
+pos = (291,189);
 ref = dotaccentcomb.case;
 }
 );

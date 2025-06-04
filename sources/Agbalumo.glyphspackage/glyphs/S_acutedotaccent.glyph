@@ -13,7 +13,7 @@ pos = (247,0);
 ref = acutecomb.case;
 },
 {
-pos = (300,223);
+pos = (302,223);
 ref = dotaccentcomb.case;
 }
 );

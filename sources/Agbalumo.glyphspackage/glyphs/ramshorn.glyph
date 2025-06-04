@@ -3,6 +3,12 @@ color = 0;
 glyphname = ramshorn;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (343,500);
+}
+);
 layerId = "CDFC0212-EC7A-4000-86F8-EA19B9E6D7F9";
 shapes = (
 {

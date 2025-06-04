@@ -12,7 +12,7 @@ pos = (120,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (236,-10);
+pos = (238,-10);
 ref = dotaccentcomb.case;
 }
 );
