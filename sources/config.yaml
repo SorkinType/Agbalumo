@@ -2,5 +2,6 @@ sources:
   - Agbalumo.glyphspackage
 
 familyName: Agbalumo
+cleanUp: true
 
 buildOTF: false
